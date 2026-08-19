@@ -1,2461 +1,2652 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome LLM",
+              "description": "broad LLM papers, model lists, training, inference, evaluation, and tutorials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603049672,
+                "language": null,
+                "last_commit": "2025-07-31T02:38:24Z",
+                "owner": "Hannibal046",
+                "repo": "Awesome-LLM",
+                "stars": 27271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Reasoning",
+              "description": "reasoning, chain-of-thought, o1/R1-style methods, and multimodal reasoning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562071276,
+                "language": null,
+                "last_commit": "2026-04-20T00:57:27Z",
+                "owner": "atfortes",
+                "repo": "Awesome-LLM-Reasoning",
+                "stars": 3669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Evaluation Papers",
+              "description": "evaluation methods, benchmarks, and survey papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711546301,
+                "language": null,
+                "last_commit": "2024-05-08T17:36:48Z",
+                "owner": "tjunlp-lab",
+                "repo": "Awesome-LLMs-Evaluation-Papers",
+                "stars": 806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Reasoning Foundation Models",
+              "description": "reasoning with language, vision, and multimodal foundation models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721539172,
+                "language": null,
+                "last_commit": "2025-06-16T10:08:45Z",
+                "owner": "reasoning-survey",
+                "repo": "Awesome-Reasoning-Foundation-Models",
+                "stars": 655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Multilingual LLMs Papers",
+              "description": "multilingual LLM data, training, evaluation, and applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 889821992,
+                "language": null,
+                "last_commit": "2025-01-21T06:33:44Z",
+                "owner": "tjunlp-lab",
+                "repo": "Awesome-Multilingual-LLMs-Papers",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Large Language Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Post-Training",
+              "description": "reasoning LLM post-training, RL, distillation, alignment, and evaluation resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 932076703,
+                "language": "Python",
+                "last_commit": "2026-07-27T13:26:23Z",
+                "owner": "mbzuai-oryx",
+                "repo": "Awesome-LLM-Post-training",
+                "stars": 2520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Synthetic Data",
+              "description": "synthetic data generation papers, tools, and guides for LLM training and post-training.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840026337,
+                "language": null,
+                "last_commit": "2025-06-05T19:16:26Z",
+                "owner": "wasiahmad",
+                "repo": "Awesome-LLM-Synthetic-Data",
+                "stars": 1549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Inference-Time Scaling",
+              "description": "inference/test-time compute, search, self-refinement, and verifier-guided reasoning papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 923971299,
+                "language": "Python",
+                "last_commit": "2026-06-22T02:43:49Z",
+                "owner": "ThreeSR",
+                "repo": "Awesome-Inference-Time-Scaling",
+                "stars": 398
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Test-Time Scaling in LLMs",
+              "description": "survey-oriented taxonomy and paper list for test-time scaling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 962345599,
+                "language": "HTML",
+                "last_commit": "2026-08-19T00:42:30Z",
+                "owner": "testtimescaling",
+                "repo": "testtimescaling.github.io",
+                "stars": 113
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reasoning, Post-Training, and Synthetic Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Database Learning",
+              "description": "database systems, data management, and ML-related database resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238696410,
+                "language": null,
+                "last_commit": "2024-08-29T02:14:04Z",
+                "owner": "pingcap",
+                "repo": "awesome-database-learning",
+                "stars": 10959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlashRAG",
+              "description": "research toolkit for efficient RAG pipelines, datasets, metrics, and reproducible experiments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771808616,
+                "language": "Python",
+                "last_commit": "2026-08-09T05:52:43Z",
+                "owner": "RUC-NLPIR",
+                "repo": "FlashRAG",
+                "stars": 3543
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM KG",
+              "description": "unifying LLMs and knowledge graphs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650839020,
+                "language": null,
+                "last_commit": "2025-05-02T02:00:45Z",
+                "owner": "RManLuo",
+                "repo": "Awesome-LLM-KG",
+                "stars": 2613
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome RAG",
+              "description": "retrieval-augmented generation papers, tutorials, tools, and workshops.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 755500149,
+                "language": null,
+                "last_commit": "2025-12-01T08:45:44Z",
+                "owner": "coree",
+                "repo": "awesome-rag",
+                "stars": 432
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RAG, Search, and Knowledge-Intensive AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome AI Agents",
+              "description": "autonomous agent projects and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655459367,
+                "language": null,
+                "last_commit": "2026-07-09T17:41:48Z",
+                "owner": "e2b-dev",
+                "repo": "awesome-ai-agents",
+                "stars": 29547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Deep Research",
+              "description": "open-source research agent implementation for iterative search, synthesis, and reporting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 891642747,
+                "language": "Python",
+                "last_commit": "2026-08-10T18:13:37Z",
+                "owner": "langchain-ai",
+                "repo": "open_deep_research",
+                "stars": 12637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Agent Papers",
+              "description": "weekly updated 2026 agent research papers on memory, tools, evaluation, workflows, and security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154407752,
+                "language": null,
+                "last_commit": "2026-08-17T12:13:09Z",
+                "owner": "VoltAgent",
+                "repo": "awesome-ai-agent-papers",
+                "stars": 1692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome GUI Agent",
+              "description": "papers and resources for multimodal GUI, browser, and computer-use agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 821475246,
+                "language": null,
+                "last_commit": "2025-08-17T15:58:09Z",
+                "owner": "showlab",
+                "repo": "Awesome-GUI-Agent",
+                "stars": 1212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Data Agents",
+              "description": "agents for data preparation, analysis, and data management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1047738091,
+                "language": "Python",
+                "last_commit": "2026-08-05T05:38:00Z",
+                "owner": "HKUSTDial",
+                "repo": "awesome-data-agents",
+                "stars": 703
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Computer Use",
+              "description": "computer-use GUI agent papers, projects, blogs, and benchmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 877726505,
+                "language": null,
+                "last_commit": "2026-04-15T09:56:59Z",
+                "owner": "ranpox",
+                "repo": "awesome-computer-use",
+                "stars": 578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Code Agents",
+              "description": "coding agents, software engineering agents, benchmarks, and research papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1070840924,
+                "language": "Python",
+                "last_commit": "2026-08-17T05:00:28Z",
+                "owner": "EuniAI",
+                "repo": "awesome-code-agents",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Agents for Science",
+              "description": "LLM agents for scientific research and development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 898040689,
+                "language": null,
+                "last_commit": "2024-12-11T04:40:14Z",
+                "owner": "OSU-NLP-Group",
+                "repo": "awesome-agents4science",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Edge AI for Multimodal Agents",
+              "description": "efficient multimodal agents on mobile and edge devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1053030003,
+                "language": null,
+                "last_commit": "2026-06-16T17:28:10Z",
+                "owner": "yh-yao",
+                "repo": "awesome-edge-ai-agents",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI Agents"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome MCP Servers",
+              "description": "large curated list of Model Context Protocol servers for connecting agents to tools and data sources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 896335270,
+                "language": null,
+                "last_commit": "2026-08-17T21:28:42Z",
+                "owner": "punkpeye",
+                "repo": "awesome-mcp-servers",
+                "stars": 92557
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Agent",
+              "description": "framework and patterns for building agents on top of Model Context Protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905016458,
+                "language": "Python",
+                "last_commit": "2026-01-25T16:35:16Z",
+                "owner": "lastmile-ai",
+                "repo": "mcp-agent",
+                "stars": 8511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome MCP Clients",
+              "description": "MCP-capable clients and applications across desktop, IDE, CLI, and agent workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 915233417,
+                "language": null,
+                "last_commit": "2026-06-07T18:57:48Z",
+                "owner": "punkpeye",
+                "repo": "awesome-mcp-clients",
+                "stars": 6550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Agent Memory",
+              "description": "papers, systems, and benchmarks for long-term memory, context engineering, retrieval, and reasoning in agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1086124473,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:07:20Z",
+                "owner": "TeleAI-UAGI",
+                "repo": "Awesome-Agent-Memory",
+                "stars": 585
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agent Protocols, Memory, and Tooling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Machine Learning for Cyber Security",
+              "description": "ML methods for cyber security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76955905,
+                "language": null,
+                "last_commit": "2024-08-19T02:14:10Z",
+                "owner": "jivoi",
+                "repo": "awesome-ml-for-cybersecurity",
+                "stars": 9299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Threat Detection and Hunting",
+              "description": "practical security detection and hunting research resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117328645,
+                "language": null,
+                "last_commit": "2026-01-05T12:27:34Z",
+                "owner": "0x4D31",
+                "repo": "awesome-threat-detection",
+                "stars": 4702
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Security",
+              "description": "adversarial ML, LLM security, and broader AI security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102793957,
+                "language": null,
+                "last_commit": "2026-03-08T18:32:29Z",
+                "owner": "DeepSpaceHarbor",
+                "repo": "Awesome-AI-Security",
+                "stars": 1662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Safety",
+              "description": "AI quality, testing, robustness, fairness, and privacy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629999606,
+                "language": null,
+                "last_commit": "2025-04-14T12:42:48Z",
+                "owner": "Giskard-AI",
+                "repo": "awesome-ai-safety",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Alignment",
+              "description": "alignment research resources and reading paths.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157829785,
+                "language": null,
+                "last_commit": "2023-07-14T07:06:55Z",
+                "owner": "dit7ya",
+                "repo": "awesome-ai-alignment",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Safety Papers",
+              "description": "LLM safety, alignment, jailbreaks, privacy, and robustness papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 907308156,
+                "language": null,
+                "last_commit": "2024-12-24T16:15:03Z",
+                "owner": "tjunlp-lab",
+                "repo": "Awesome-LLM-Safety-Papers",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alignment, Safety, Security, and Trustworthiness"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Efficient LLM",
+              "description": "quantization, pruning, KV cache compression, MoE, serving, and efficient reasoning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643793540,
+                "language": "Python",
+                "last_commit": "2025-06-17T02:35:25Z",
+                "owner": "horseee",
+                "repo": "Awesome-Efficient-LLM",
+                "stars": 2036
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Resource-Efficient LLM Papers",
+              "description": "resource-efficient LLM pre-training, fine-tuning, and inference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736753634,
+                "language": null,
+                "last_commit": "2026-06-08T19:54:56Z",
+                "owner": "tiingweii-shii",
+                "repo": "Awesome-Resource-Efficient-LLM-Papers",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Model Inference Deployment",
+              "description": "inference deployment frameworks across TensorRT, ONNX Runtime, OpenVINO, TVM, mobile runtimes, and edge accelerators.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 451294314,
+                "language": "Python",
+                "last_commit": "2024-05-03T17:32:27Z",
+                "owner": "Yulv-git",
+                "repo": "Model-Inference-Deployment",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLMOps",
+              "description": "production LLM lifecycle, evaluation, observability, deployment, and prompt management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1010316756,
+                "language": "Python",
+                "last_commit": "2026-06-23T01:04:02Z",
+                "owner": "brandonhimpfen",
+                "repo": "awesome-llmops",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Efficient LLMs and Systems"
+        }
+      ],
       "title": "Foundation Models, LLMs, and Agents"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome LLM",
-          "description": "broad LLM papers, model lists, training, inference, evaluation, and tutorials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-31T02:38:24Z",
-            "owner": "Hannibal046",
-            "repo": "Awesome-LLM",
-            "stars": 27269
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Multimodal Large Language Models",
+              "description": "current MLLM papers, benchmarks, datasets, and evaluation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642642539,
+                "language": null,
+                "last_commit": "2026-08-14T17:17:50Z",
+                "owner": "BradyFU",
+                "repo": "Awesome-Multimodal-Large-Language-Models",
+                "stars": 17983
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Multimodal ML",
+              "description": "classic and modern multimodal machine learning resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188919037,
+                "language": null,
+                "last_commit": "2024-08-20T19:46:33Z",
+                "owner": "pliang279",
+                "repo": "awesome-multimodal-ml",
+                "stars": 6926
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Vision-Language Models for Vision Tasks",
+              "description": "VLMs for classification, detection, segmentation, and other vision tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621170910,
+                "language": null,
+                "last_commit": "2025-10-14T09:40:40Z",
+                "owner": "jingyi0000",
+                "repo": "VLM_survey",
+                "stars": 3127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMMU",
+              "description": "multidisciplinary multimodal understanding and reasoning benchmark with evaluation code and leaderboard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 722649798,
+                "language": "Python",
+                "last_commit": "2026-07-28T02:29:26Z",
+                "owner": "MMMU-Benchmark",
+                "repo": "MMMU",
+                "stars": 593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Multimodal Modeling",
+              "description": "unified multimodal modeling across MLLMs, understanding, generation, and omni-modal agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1193748483,
+                "language": null,
+                "last_commit": "2026-08-07T16:18:16Z",
+                "owner": "OpenEnvision",
+                "repo": "Awesome-Multimodal-Modeling",
+                "stars": 532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Document Understanding",
+              "description": "document AI, OCR, layout understanding, and document-oriented MLLM resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652404862,
+                "language": null,
+                "last_commit": "2026-08-03T07:15:48Z",
+                "owner": "harrytea",
+                "repo": "Awesome-Document-Understanding",
+                "stars": 201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMLongBench",
+              "description": "benchmark and evaluation code for long-context vision-language models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 983988816,
+                "language": "Python",
+                "last_commit": "2026-07-07T15:42:26Z",
+                "owner": "EdinburghNLP",
+                "repo": "MMLongBench",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Multimodal Reasoning",
+              "description": "multimodal reasoning and RL-based visual reasoning papers, surveys, benchmarks, and datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933734981,
+                "language": null,
+                "last_commit": "2026-08-15T07:01:01Z",
+                "owner": "The-Martyr",
+                "repo": "Awesome-Multimodal-Reasoning",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Large Vision-Language Model",
+              "description": "VLM papers, medical foundation models, benchmarks, and presentations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840782946,
+                "language": null,
+                "last_commit": "2025-07-23T14:48:38Z",
+                "owner": "SuperBruceJia",
+                "repo": "Awesome-Large-Vision-Language-Model",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Large Multimodal Models",
+              "description": "large multimodal models from input-output space perspectives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900567560,
+                "language": null,
+                "last_commit": "2026-02-04T16:59:24Z",
+                "owner": "FudanDISC",
+                "repo": "Awesome-Multimodal-Large-Language-Models",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multimodal and Vision-Language Models"
         },
         {
-          "node_type": "item",
-          "title": "Awesome LLM Reasoning",
-          "description": "reasoning, chain-of-thought, o1/R1-style methods, and multimodal reasoning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-20T00:57:27Z",
-            "owner": "atfortes",
-            "repo": "Awesome-LLM-Reasoning",
-            "stars": 3669
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Diffusion Models",
+              "description": "diffusion and score-based generative model papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407722319,
+                "language": "HTML",
+                "last_commit": "2024-08-01T07:11:20Z",
+                "owner": "diff-usion",
+                "repo": "Awesome-Diffusion-Models",
+                "stars": 12367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Really Awesome GAN",
+              "description": "GAN papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87085729,
+                "language": null,
+                "last_commit": "2025-08-24T07:57:51Z",
+                "owner": "nightrome",
+                "repo": "really-awesome-gan",
+                "stars": 3773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Normalizing Flows",
+              "description": "normalizing flow papers and implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227366838,
+                "language": "Python",
+                "last_commit": "2026-07-31T13:27:19Z",
+                "owner": "janosh",
+                "repo": "awesome-normalizing-flows",
+                "stars": 1636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Video World Models",
+              "description": "video generation and interactive world-model papers with a state/dynamics taxonomy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1142144589,
+                "language": null,
+                "last_commit": "2026-06-27T10:34:09Z",
+                "owner": "hit-perfect",
+                "repo": "Awesome-Video-World-Models",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Video Diffusions",
+              "description": "auto-updated video diffusion and video generation paper tracker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153373143,
+                "language": "Python",
+                "last_commit": "2026-08-08T13:04:31Z",
+                "owner": "longxiang-ai",
+                "repo": "awesome-video-diffusions",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Diffusion and Generative Models"
         },
         {
-          "node_type": "item",
-          "title": "Awesome LLM Evaluation Papers",
-          "description": "evaluation methods, benchmarks, and survey papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-05-08T17:36:48Z",
-            "owner": "tjunlp-lab",
-            "repo": "Awesome-LLMs-Evaluation-Papers",
-            "stars": 806
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deep Learning Object Detection",
+              "description": "object detection paper list with many classic references.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149211688,
+                "language": "Python",
+                "last_commit": "2024-02-12T09:30:31Z",
+                "owner": "hoya012",
+                "repo": "deep_learning_object_detection",
+                "stars": 11388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Vision",
+              "description": "classic deep vision resources with high historical value.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35812923,
+                "language": null,
+                "last_commit": "2023-08-15T10:52:15Z",
+                "owner": "kjw0612",
+                "repo": "awesome-deep-vision",
+                "stars": 11183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Object Detection",
+              "description": "object detection papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128416044,
+                "language": null,
+                "last_commit": "2022-12-17T04:28:58Z",
+                "owner": "amusi",
+                "repo": "awesome-object-detection",
+                "stars": 7503
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Face Recognition",
+              "description": "face detection, recognition, alignment, generation, and anti-spoofing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156818789,
+                "language": null,
+                "last_commit": "2023-02-09T07:02:58Z",
+                "owner": "ChanChiChoi",
+                "repo": "awesome-Face_Recognition",
+                "stars": 4757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Visual Transformer",
+              "description": "transformers for computer vision.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318087408,
+                "language": null,
+                "last_commit": "2025-01-07T01:59:49Z",
+                "owner": "dk-liang",
+                "repo": "Awesome-Visual-Transformer",
+                "stars": 3590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3D Gaussian Splatting Papers",
+              "description": "actively maintained 3D Gaussian Splatting paper tracker, including conference-specific lists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733901924,
+                "language": "Python",
+                "last_commit": "2026-06-12T07:01:54Z",
+                "owner": "Awesome3DGS",
+                "repo": "3D-Gaussian-Splatting-Papers",
+                "stars": 3124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Lane Detection",
+              "description": "lane detection papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163154136,
+                "language": null,
+                "last_commit": "2024-08-16T02:29:01Z",
+                "owner": "amusi",
+                "repo": "awesome-lane-detection",
+                "stars": 3062
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Image Classification",
+              "description": "image classification papers and code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4420796,
+                "language": null,
+                "last_commit": "2022-04-20T15:52:51Z",
+                "owner": "weiaicunzai",
+                "repo": "awesome-image-classification",
+                "stars": 3060
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3D Point Cloud",
+              "description": "point cloud deep learning resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174076842,
+                "language": "Python",
+                "last_commit": "2024-08-30T09:40:10Z",
+                "owner": "zhulf0804",
+                "repo": "3D-PointCloud",
+                "stars": 2937
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Crowd Counting",
+              "description": "crowd counting papers and datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130979291,
+                "language": null,
+                "last_commit": "2026-01-24T01:40:31Z",
+                "owner": "gjy3035",
+                "repo": "Awesome-Crowd-Counting",
+                "stars": 2612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome CBIR Papers",
+              "description": "image retrieval and content-based image retrieval.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41546993,
+                "language": null,
+                "last_commit": "2023-10-31T13:25:54Z",
+                "owner": "willard-yuan",
+                "repo": "awesome-cbir-papers",
+                "stars": 1758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Point Cloud Analysis",
+              "description": "3D point cloud papers and datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249245204,
+                "language": null,
+                "last_commit": "2024-04-10T08:25:30Z",
+                "owner": "NUAAXQ",
+                "repo": "awesome-point-cloud-analysis-2023",
+                "stars": 1591
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer Vision"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Reasoning Foundation Models",
-          "description": "reasoning with language, vision, and multimodal foundation models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-06-16T10:08:45Z",
-            "owner": "reasoning-survey",
-            "repo": "Awesome-Reasoning-Foundation-Models",
-            "stars": 655
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Multilingual LLMs Papers",
-          "description": "multilingual LLM data, training, evaluation, and applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-21T06:33:44Z",
-            "owner": "tjunlp-lab",
-            "repo": "Awesome-Multilingual-LLMs-Papers",
-            "stars": 35
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Autonomous Vehicles",
+              "description": "self-driving and autonomous vehicle resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76066550,
+                "language": null,
+                "last_commit": "2024-03-15T17:19:11Z",
+                "owner": "manfreddiaz",
+                "repo": "awesome-autonomous-vehicles",
+                "stars": 2390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome World Models",
+              "description": "world models for video generation, embodied AI, robotics, and autonomous driving.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 885743839,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:26:05Z",
+                "owner": "leofan90",
+                "repo": "Awesome-World-Models",
+                "stars": 1967
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome VLA Robotics",
+              "description": "vision-language-action models and robot foundation model papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 970036759,
+                "language": null,
+                "last_commit": "2026-03-23T18:25:44Z",
+                "owner": "Jiaaqiliu",
+                "repo": "Awesome-VLA-Robotics",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Physical AI",
+              "description": "VLA models, robot foundation models, world models, diffusion policies, evaluation, and safety.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132505553,
+                "language": null,
+                "last_commit": "2026-06-24T11:11:58Z",
+                "owner": "keon",
+                "repo": "awesome-physical-ai",
+                "stars": 386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Embodied AI",
+              "description": "embodied AI surveys, VLA models, datasets, simulators, humanoids, and safety.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949984901,
+                "language": "Python",
+                "last_commit": "2026-06-14T01:07:43Z",
+                "owner": "wadeKeith",
+                "repo": "Awesome-Embodied-AI",
+                "stars": 236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome World Models for Robots",
+              "description": "world-model papers, datasets, and workshops focused on robotics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 921979468,
+                "language": null,
+                "last_commit": "2026-03-30T07:01:28Z",
+                "owner": "operator22th",
+                "repo": "awesome-world-models-for-robots",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome VLA Papers",
+              "description": "VLA papers covering robotics, autonomous driving, world models, and spatial reasoning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1176763419,
+                "language": "Python",
+                "last_commit": "2026-08-07T01:30:59Z",
+                "owner": "hanjianhua44",
+                "repo": "Awesome-VLA-Papers",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embodied AI, Robotics, and World Models"
         }
       ],
-      "title": "Large Language Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome LLM Post-Training",
-          "description": "reasoning LLM post-training, RL, distillation, alignment, and evaluation resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-27T13:26:23Z",
-            "owner": "mbzuai-oryx",
-            "repo": "Awesome-LLM-Post-training",
-            "stars": 2519
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome LLM Synthetic Data",
-          "description": "synthetic data generation papers, tools, and guides for LLM training and post-training.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-06-05T19:16:26Z",
-            "owner": "wasiahmad",
-            "repo": "Awesome-LLM-Synthetic-Data",
-            "stars": 1549
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Inference-Time Scaling",
-          "description": "inference/test-time compute, search, self-refinement, and verifier-guided reasoning papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-22T02:43:49Z",
-            "owner": "ThreeSR",
-            "repo": "Awesome-Inference-Time-Scaling",
-            "stars": 398
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Test-Time Scaling in LLMs",
-          "description": "survey-oriented taxonomy and paper list for test-time scaling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-18T00:42:26Z",
-            "owner": "testtimescaling",
-            "repo": "testtimescaling.github.io",
-            "stars": 113
-          }
-        }
-      ],
-      "title": "Reasoning, Post-Training, and Synthetic Data"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Database Learning",
-          "description": "database systems, data management, and ML-related database resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-29T02:14:04Z",
-            "owner": "pingcap",
-            "repo": "awesome-database-learning",
-            "stars": 10957
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FlashRAG",
-          "description": "research toolkit for efficient RAG pipelines, datasets, metrics, and reproducible experiments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T05:52:43Z",
-            "owner": "RUC-NLPIR",
-            "repo": "FlashRAG",
-            "stars": 3543
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome LLM KG",
-          "description": "unifying LLMs and knowledge graphs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-05-02T02:00:45Z",
-            "owner": "RManLuo",
-            "repo": "Awesome-LLM-KG",
-            "stars": 2613
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome RAG",
-          "description": "retrieval-augmented generation papers, tutorials, tools, and workshops.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-12-01T08:45:44Z",
-            "owner": "coree",
-            "repo": "awesome-rag",
-            "stars": 432
-          }
-        }
-      ],
-      "title": "RAG, Search, and Knowledge-Intensive AI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome AI Agents",
-          "description": "autonomous agent projects and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-09T17:41:48Z",
-            "owner": "e2b-dev",
-            "repo": "awesome-ai-agents",
-            "stars": 29513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open Deep Research",
-          "description": "open-source research agent implementation for iterative search, synthesis, and reporting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T18:13:37Z",
-            "owner": "langchain-ai",
-            "repo": "open_deep_research",
-            "stars": 12632
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Agent Papers",
-          "description": "weekly updated 2026 agent research papers on memory, tools, evaluation, workflows, and security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T12:13:09Z",
-            "owner": "VoltAgent",
-            "repo": "awesome-ai-agent-papers",
-            "stars": 1691
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome GUI Agent",
-          "description": "papers and resources for multimodal GUI, browser, and computer-use agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-17T15:58:09Z",
-            "owner": "showlab",
-            "repo": "Awesome-GUI-Agent",
-            "stars": 1212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Data Agents",
-          "description": "agents for data preparation, analysis, and data management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T05:38:00Z",
-            "owner": "HKUSTDial",
-            "repo": "awesome-data-agents",
-            "stars": 703
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Computer Use",
-          "description": "computer-use GUI agent papers, projects, blogs, and benchmarks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-15T09:56:59Z",
-            "owner": "ranpox",
-            "repo": "awesome-computer-use",
-            "stars": 578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Code Agents",
-          "description": "coding agents, software engineering agents, benchmarks, and research papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T05:00:28Z",
-            "owner": "EuniAI",
-            "repo": "awesome-code-agents",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Agents for Science",
-          "description": "LLM agents for scientific research and development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-11T04:40:14Z",
-            "owner": "OSU-NLP-Group",
-            "repo": "awesome-agents4science",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Edge AI for Multimodal Agents",
-          "description": "efficient multimodal agents on mobile and edge devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-16T17:28:10Z",
-            "owner": "yh-yao",
-            "repo": "awesome-edge-ai-agents",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "AI Agents"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome MCP Servers",
-          "description": "large curated list of Model Context Protocol servers for connecting agents to tools and data sources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T21:28:42Z",
-            "owner": "punkpeye",
-            "repo": "awesome-mcp-servers",
-            "stars": 92508
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCP Agent",
-          "description": "framework and patterns for building agents on top of Model Context Protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-25T16:35:16Z",
-            "owner": "lastmile-ai",
-            "repo": "mcp-agent",
-            "stars": 8508
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome MCP Clients",
-          "description": "MCP-capable clients and applications across desktop, IDE, CLI, and agent workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-07T18:57:48Z",
-            "owner": "punkpeye",
-            "repo": "awesome-mcp-clients",
-            "stars": 6549
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Agent Memory",
-          "description": "papers, systems, and benchmarks for long-term memory, context engineering, retrieval, and reasoning in agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:37:39Z",
-            "owner": "TeleAI-UAGI",
-            "repo": "Awesome-Agent-Memory",
-            "stars": 584
-          }
-        }
-      ],
-      "title": "Agent Protocols, Memory, and Tooling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Machine Learning for Cyber Security",
-          "description": "ML methods for cyber security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-19T02:14:10Z",
-            "owner": "jivoi",
-            "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Threat Detection and Hunting",
-          "description": "practical security detection and hunting research resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-05T12:27:34Z",
-            "owner": "0x4D31",
-            "repo": "awesome-threat-detection",
-            "stars": 4701
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Security",
-          "description": "adversarial ML, LLM security, and broader AI security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-08T18:32:29Z",
-            "owner": "DeepSpaceHarbor",
-            "repo": "Awesome-AI-Security",
-            "stars": 1660
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Safety",
-          "description": "AI quality, testing, robustness, fairness, and privacy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-04-14T12:42:48Z",
-            "owner": "Giskard-AI",
-            "repo": "awesome-ai-safety",
-            "stars": 220
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Alignment",
-          "description": "alignment research resources and reading paths.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-07-14T07:06:55Z",
-            "owner": "dit7ya",
-            "repo": "awesome-ai-alignment",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome LLM Safety Papers",
-          "description": "LLM safety, alignment, jailbreaks, privacy, and robustness papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-24T16:15:03Z",
-            "owner": "tjunlp-lab",
-            "repo": "Awesome-LLM-Safety-Papers",
-            "stars": 55
-          }
-        }
-      ],
-      "title": "Alignment, Safety, Security, and Trustworthiness"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Efficient LLM",
-          "description": "quantization, pruning, KV cache compression, MoE, serving, and efficient reasoning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-17T02:35:25Z",
-            "owner": "horseee",
-            "repo": "Awesome-Efficient-LLM",
-            "stars": 2036
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Resource-Efficient LLM Papers",
-          "description": "resource-efficient LLM pre-training, fine-tuning, and inference.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-08T19:54:56Z",
-            "owner": "tiingweii-shii",
-            "repo": "Awesome-Resource-Efficient-LLM-Papers",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Model Inference Deployment",
-          "description": "inference deployment frameworks across TensorRT, ONNX Runtime, OpenVINO, TVM, mobile runtimes, and edge accelerators.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-03T17:32:27Z",
-            "owner": "Yulv-git",
-            "repo": "Model-Inference-Deployment",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome LLMOps",
-          "description": "production LLM lifecycle, evaluation, observability, deployment, and prompt management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-23T01:04:02Z",
-            "owner": "brandonhimpfen",
-            "repo": "awesome-llmops",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Efficient LLMs and Systems"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Multimodal, Vision-Language, and Generative AI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome Multimodal Large Language Models",
-          "description": "current MLLM papers, benchmarks, datasets, and evaluation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T17:17:50Z",
-            "owner": "BradyFU",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17979
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoML Papers",
+              "description": "automated machine learning papers and tutorials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111381431,
+                "language": null,
+                "last_commit": "2024-06-11T16:51:05Z",
+                "owner": "hibayesian",
+                "repo": "awesome-automl-papers",
+                "stars": 4153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Causality Algorithms",
+              "description": "causal discovery and inference algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149516975,
+                "language": null,
+                "last_commit": "2025-01-22T11:00:42Z",
+                "owner": "rguo12",
+                "repo": "awesome-causality-algorithms",
+                "stars": 3274
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning Surveys",
+              "description": "survey papers across ML, NLP, CV, graphs, RL, and recommendation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285951873,
+                "language": null,
+                "last_commit": "2023-03-17T05:00:49Z",
+                "owner": "eugeneyan",
+                "repo": "ml-surveys",
+                "stars": 2903
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Decision Tree Papers",
+              "description": "decision tree, classification tree, and regression tree papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186166778,
+                "language": "Python",
+                "last_commit": "2025-12-28T23:17:27Z",
+                "owner": "benedekrozemberczki",
+                "repo": "awesome-decision-tree-papers",
+                "stars": 2473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AutoDL",
+              "description": "automated deep learning and neural architecture search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153077001,
+                "language": "Python",
+                "last_commit": "2022-09-26T01:35:49Z",
+                "owner": "D-X-Y",
+                "repo": "Awesome-AutoDL",
+                "stars": 2340
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning Surveys and Tutorials",
+              "description": "older but still useful survey collection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92328985,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T13:49:06Z",
+                "owner": "metrofun",
+                "repo": "machine-learning-surveys",
+                "stars": 1408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Architecture Search",
+              "description": "neural architecture search resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112202172,
+                "language": null,
+                "last_commit": "2020-09-15T19:52:12Z",
+                "owner": "markdtw",
+                "repo": "awesome-architecture-search",
+                "stars": 1190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Time Series Papers",
+              "description": "recent time-series papers and code across forecasting, anomaly detection, foundation models, and representation learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 835029948,
+                "language": null,
+                "last_commit": "2026-08-12T17:00:18Z",
+                "owner": "TSCenter",
+                "repo": "awesome-time-series-papers",
+                "stars": 1084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Learning Uncertainty",
+              "description": "predictive uncertainty in deep learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194361525,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-08-01T23:37:51Z",
+                "owner": "AlaaLab",
+                "repo": "deep-learning-uncertainty",
+                "stars": 643
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Online Machine Learning",
+              "description": "online and streaming ML resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204671402,
+                "language": null,
+                "last_commit": "2026-03-31T21:32:37Z",
+                "owner": "online-ml",
+                "repo": "awesome-online-machine-learning",
+                "stars": 627
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bayesian Deep Learning Survey",
+              "description": "Bayesian deep learning survey resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197287995,
+                "language": null,
+                "last_commit": "2026-07-04T06:24:25Z",
+                "owner": "js05212",
+                "repo": "BayesianDeepLearning-Survey",
+                "stars": 521
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General ML, Surveys, and Methods"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Multimodal ML",
-          "description": "classic and modern multimodal machine learning resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-20T19:46:33Z",
-            "owner": "pliang279",
-            "repo": "awesome-multimodal-ml",
-            "stars": 6926
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Data-Juicer",
+              "description": "data processing, cleaning, filtering, and analysis toolkit for foundation-model datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 673277958,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:43:28Z",
+                "owner": "datajuicer",
+                "repo": "data-juicer",
+                "stars": 6911
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Open Data-Centric AI",
+              "description": "open-source tools for data-centric AI on unstructured data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607380349,
+                "language": null,
+                "last_commit": "2023-11-15T11:02:12Z",
+                "owner": "Renumics",
+                "repo": "awesome-open-data-centric-ai",
+                "stars": 736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Synthetic Datasets",
+              "description": "practical resources and examples for creating synthetic text and vision datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761378281,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-02T12:20:04Z",
+                "owner": "davanstrien",
+                "repo": "awesome-synthetic-datasets",
+                "stars": 338
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data-Centric AI and Data Curation"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Vision-Language Models for Vision Tasks",
-          "description": "VLMs for classification, detection, segmentation, and other vision tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-14T09:40:40Z",
-            "owner": "jingyi0000",
-            "repo": "VLM_survey",
-            "stars": 3127
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Self-Supervised Learning",
+              "description": "self-supervised learning methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120975327,
+                "language": null,
+                "last_commit": "2026-02-24T08:30:02Z",
+                "owner": "jason718",
+                "repo": "awesome-self-supervised-learning",
+                "stars": 6411
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Domain Adaptation",
+              "description": "domain adaptation papers and code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133200031,
+                "language": null,
+                "last_commit": "2025-12-08T06:04:32Z",
+                "owner": "zhaoxin94",
+                "repo": "awesome-domain-adaptation",
+                "stars": 5457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Incremental Learning",
+              "description": "incremental and lifelong learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146447849,
+                "language": null,
+                "last_commit": "2026-06-27T08:44:09Z",
+                "owner": "xialeiliu",
+                "repo": "Awesome-Incremental-Learning",
+                "stars": 4511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Machine Learning Interpretability",
+              "description": "responsible ML, interpretability, and explainability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138181193,
+                "language": null,
+                "last_commit": "2026-06-03T15:17:31Z",
+                "owner": "jphall663",
+                "repo": "awesome-machine-learning-interpretability",
+                "stars": 4059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Knowledge Distillation",
+              "description": "distillation papers and implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83434695,
+                "language": null,
+                "last_commit": "2026-05-25T23:16:02Z",
+                "owner": "dkozlov",
+                "repo": "awesome-knowledge-distillation",
+                "stars": 3901
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Learning with Label Noise",
+              "description": "noisy-label learning papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197372529,
+                "language": null,
+                "last_commit": "2025-05-03T11:47:41Z",
+                "owner": "subeeshvasu",
+                "repo": "Awesome-Learning-with-Label-Noise",
+                "stars": 2718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Transfer Learning",
+              "description": "transfer learning and domain adaptation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108416019,
+                "language": null,
+                "last_commit": "2023-08-25T08:09:09Z",
+                "owner": "artix41",
+                "repo": "awesome-transfer-learning",
+                "stars": 1777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Explainable AI",
+              "description": "explainability papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240843379,
+                "language": "Markdown",
+                "last_commit": "2026-08-19T02:09:45Z",
+                "owner": "wangyongjie-ntu",
+                "repo": "Awesome-explainable-AI",
+                "stars": 1650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Interpretability",
+              "description": "LLM interpretability tools, papers, communities, sparse autoencoders, probing, and mechanistic interpretability resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 734955917,
+                "language": null,
+                "last_commit": "2026-08-11T01:22:02Z",
+                "owner": "JShollaj",
+                "repo": "awesome-llm-interpretability",
+                "stars": 1640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Meta Learning",
+              "description": "meta-learning papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191743342,
+                "language": null,
+                "last_commit": "2020-11-24T09:32:33Z",
+                "owner": "sudharsan13296",
+                "repo": "Awesome-Meta-Learning",
+                "stars": 1555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Interpretable Machine Learning",
+              "description": "interpretable ML papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115538244,
+                "language": "Python",
+                "last_commit": "2023-03-19T09:28:48Z",
+                "owner": "lopusz",
+                "repo": "awesome-interpretable-machine-learning",
+                "stars": 918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Continual Learning Papers",
+              "description": "continual learning papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213467883,
+                "language": "TeX",
+                "last_commit": "2023-07-25T01:23:19Z",
+                "owner": "optimass",
+                "repo": "continual_learning_papers",
+                "stars": 743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Machine Learning",
+              "description": "adversarial ML papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198548119,
+                "language": null,
+                "last_commit": "2020-09-21T04:02:28Z",
+                "owner": "wangjksjtu",
+                "repo": "awesome-AML",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Open World Learning",
+              "description": "open-world, open-set, and incremental recognition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352908150,
+                "language": null,
+                "last_commit": "2021-10-19T11:31:21Z",
+                "owner": "LAMDA-CL",
+                "repo": "Awesome-open-world-learning",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Robustness, Interpretability, and Learning Paradigms"
         },
         {
-          "node_type": "item",
-          "title": "MMMU",
-          "description": "multidisciplinary multimodal understanding and reasoning benchmark with evaluation code and leaderboard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T02:29:26Z",
-            "owner": "MMMU-Benchmark",
-            "repo": "MMMU",
-            "stars": 593
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome RL",
+              "description": "reinforcement learning resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40465212,
+                "language": null,
+                "last_commit": "2023-05-25T22:25:44Z",
+                "owner": "aikorea",
+                "repo": "awesome-rl",
+                "stars": 9915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep RL",
+              "description": "deep reinforcement learning papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80825974,
+                "language": "HTML",
+                "last_commit": "2024-03-01T08:20:45Z",
+                "owner": "tigerneil",
+                "repo": "awesome-deep-rl",
+                "stars": 1512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Reasoning Papers",
+              "description": "neural-symbolic, logical, visual, and planning-oriented reasoning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243531763,
+                "language": null,
+                "last_commit": "2022-05-30T04:26:16Z",
+                "owner": "floodsung",
+                "repo": "Deep-Reasoning-Papers",
+                "stars": 316
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reinforcement Learning"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Multimodal Modeling",
-          "description": "unified multimodal modeling across MLLMs, understanding, generation, and omni-modal agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-07T16:18:16Z",
-            "owner": "OpenEnvision",
-            "repo": "Awesome-Multimodal-Modeling",
-            "stars": 533
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Federated Machine Learning",
+              "description": "federated ML papers, books, code, tutorials, and videos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216189313,
+                "language": null,
+                "last_commit": "2024-05-30T21:21:42Z",
+                "owner": "innovation-cat",
+                "repo": "Awesome-Federated-Machine-Learning",
+                "stars": 2088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Federated Learning",
+              "description": "federated learning papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220796852,
+                "language": "Shell",
+                "last_commit": "2025-11-16T16:14:13Z",
+                "owner": "weimingwill",
+                "repo": "awesome-federated-learning",
+                "stars": 737
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Federated and Privacy-Preserving ML"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Document Understanding",
-          "description": "document AI, OCR, layout understanding, and document-oriented MLLM resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-03T07:15:48Z",
-            "owner": "harrytea",
-            "repo": "Awesome-Document-Understanding",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MMLongBench",
-          "description": "benchmark and evaluation code for long-context vision-language models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-07T15:42:26Z",
-            "owner": "EdinburghNLP",
-            "repo": "MMLongBench",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Multimodal Reasoning",
-          "description": "multimodal reasoning and RL-based visual reasoning papers, surveys, benchmarks, and datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-15T07:01:01Z",
-            "owner": "The-Martyr",
-            "repo": "Awesome-Multimodal-Reasoning",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Large Vision-Language Model",
-          "description": "VLM papers, medical foundation models, benchmarks, and presentations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-23T14:48:38Z",
-            "owner": "SuperBruceJia",
-            "repo": "Awesome-Large-Vision-Language-Model",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Large Multimodal Models",
-          "description": "large multimodal models from input-output space perspectives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-02-04T16:59:24Z",
-            "owner": "FudanDISC",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 20
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Must-Read Papers on GNN",
+              "description": "curated GNN papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162940724,
+                "language": null,
+                "last_commit": "2023-12-20T03:33:14Z",
+                "owner": "thunlp",
+                "repo": "GNNPapers",
+                "stars": 16830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graph-Based Deep Learning Literature",
+              "description": "graph deep learning papers by venue.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112751115,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-07T20:24:09Z",
+                "owner": "naganandy",
+                "repo": "graph-based-deep-learning-literature",
+                "stars": 5094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Graph Classification",
+              "description": "graph classification and representation learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140943444,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:10:08Z",
+                "owner": "benedekrozemberczki",
+                "repo": "awesome-graph-classification",
+                "stars": 4799
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Community Detection",
+              "description": "community detection papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152444880,
+                "language": "Python",
+                "last_commit": "2025-12-20T17:06:00Z",
+                "owner": "benedekrozemberczki",
+                "repo": "awesome-community-detection",
+                "stars": 2449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Graph Neural Networks",
+              "description": "GNN paper list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163639171,
+                "language": null,
+                "last_commit": "2023-12-29T15:02:47Z",
+                "owner": "TrustAGI-Lab",
+                "repo": "Awesome-Graph-Neural-Networks",
+                "stars": 2310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knowledge Graphs",
+              "description": "knowledge graph papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163790723,
+                "language": "JavaScript",
+                "last_commit": "2022-10-07T16:30:33Z",
+                "owner": "shaoxiongji",
+                "repo": "knowledge-graphs",
+                "stars": 1790
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Self-Supervised GNN",
+              "description": "self-supervised learning on graphs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267196339,
+                "language": "Python",
+                "last_commit": "2024-02-02T14:48:59Z",
+                "owner": "ChandlerBang",
+                "repo": "awesome-self-supervised-gnn",
+                "stars": 1730
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knowledge Representation Learning",
+              "description": "knowledge representation learning papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120101597,
+                "language": "TeX",
+                "last_commit": "2021-08-29T07:30:25Z",
+                "owner": "thunlp",
+                "repo": "KRLPapers",
+                "stars": 1523
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Learning and Knowledge Graphs"
         }
       ],
-      "title": "Multimodal and Vision-Language Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Diffusion Models",
-          "description": "diffusion and score-based generative model papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-08-01T07:11:20Z",
-            "owner": "diff-usion",
-            "repo": "Awesome-Diffusion-Models",
-            "stars": 12368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Really Awesome GAN",
-          "description": "GAN papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-24T07:57:51Z",
-            "owner": "nightrome",
-            "repo": "really-awesome-gan",
-            "stars": 3773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Normalizing Flows",
-          "description": "normalizing flow papers and implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-31T13:27:19Z",
-            "owner": "janosh",
-            "repo": "awesome-normalizing-flows",
-            "stars": 1636
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Video World Models",
-          "description": "video generation and interactive world-model papers with a state/dynamics taxonomy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-27T10:34:09Z",
-            "owner": "hit-perfect",
-            "repo": "Awesome-Video-World-Models",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Video Diffusions",
-          "description": "auto-updated video diffusion and video generation paper tracker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-08T13:04:31Z",
-            "owner": "longxiang-ai",
-            "repo": "awesome-video-diffusions",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "Diffusion and Generative Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deep Learning Object Detection",
-          "description": "object detection paper list with many classic references.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-12T09:30:31Z",
-            "owner": "hoya012",
-            "repo": "deep_learning_object_detection",
-            "stars": 11387
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Vision",
-          "description": "classic deep vision resources with high historical value.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-08-15T10:52:15Z",
-            "owner": "kjw0612",
-            "repo": "awesome-deep-vision",
-            "stars": 11183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Object Detection",
-          "description": "object detection papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-12-17T04:28:58Z",
-            "owner": "amusi",
-            "repo": "awesome-object-detection",
-            "stars": 7502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Face Recognition",
-          "description": "face detection, recognition, alignment, generation, and anti-spoofing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-02-09T07:02:58Z",
-            "owner": "ChanChiChoi",
-            "repo": "awesome-Face_Recognition",
-            "stars": 4756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Visual Transformer",
-          "description": "transformers for computer vision.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-07T01:59:49Z",
-            "owner": "dk-liang",
-            "repo": "Awesome-Visual-Transformer",
-            "stars": 3590
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3D Gaussian Splatting Papers",
-          "description": "actively maintained 3D Gaussian Splatting paper tracker, including conference-specific lists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-12T07:01:54Z",
-            "owner": "Awesome3DGS",
-            "repo": "3D-Gaussian-Splatting-Papers",
-            "stars": 3120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Lane Detection",
-          "description": "lane detection papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-16T02:29:01Z",
-            "owner": "amusi",
-            "repo": "awesome-lane-detection",
-            "stars": 3063
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Image Classification",
-          "description": "image classification papers and code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-04-20T15:52:51Z",
-            "owner": "weiaicunzai",
-            "repo": "awesome-image-classification",
-            "stars": 3059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3D Point Cloud",
-          "description": "point cloud deep learning resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-30T09:40:10Z",
-            "owner": "zhulf0804",
-            "repo": "3D-PointCloud",
-            "stars": 2937
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Crowd Counting",
-          "description": "crowd counting papers and datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-24T01:40:31Z",
-            "owner": "gjy3035",
-            "repo": "Awesome-Crowd-Counting",
-            "stars": 2612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome CBIR Papers",
-          "description": "image retrieval and content-based image retrieval.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-10-31T13:25:54Z",
-            "owner": "willard-yuan",
-            "repo": "awesome-cbir-papers",
-            "stars": 1758
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Point Cloud Analysis",
-          "description": "3D point cloud papers and datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-04-10T08:25:30Z",
-            "owner": "NUAAXQ",
-            "repo": "awesome-point-cloud-analysis-2023",
-            "stars": 1591
-          }
-        }
-      ],
-      "title": "Computer Vision"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Autonomous Vehicles",
-          "description": "self-driving and autonomous vehicle resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-15T17:19:11Z",
-            "owner": "manfreddiaz",
-            "repo": "awesome-autonomous-vehicles",
-            "stars": 2389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome World Models",
-          "description": "world models for video generation, embodied AI, robotics, and autonomous driving.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-31T09:11:08Z",
-            "owner": "leofan90",
-            "repo": "Awesome-World-Models",
-            "stars": 1966
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome VLA Robotics",
-          "description": "vision-language-action models and robot foundation model papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-23T18:25:44Z",
-            "owner": "Jiaaqiliu",
-            "repo": "Awesome-VLA-Robotics",
-            "stars": 489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Physical AI",
-          "description": "VLA models, robot foundation models, world models, diffusion policies, evaluation, and safety.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-24T11:11:58Z",
-            "owner": "keon",
-            "repo": "awesome-physical-ai",
-            "stars": 386
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Embodied AI",
-          "description": "embodied AI surveys, VLA models, datasets, simulators, humanoids, and safety.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-14T01:07:43Z",
-            "owner": "wadeKeith",
-            "repo": "Awesome-Embodied-AI",
-            "stars": 236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome World Models for Robots",
-          "description": "world-model papers, datasets, and workshops focused on robotics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-30T07:01:28Z",
-            "owner": "operator22th",
-            "repo": "awesome-world-models-for-robots",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome VLA Papers",
-          "description": "VLA papers covering robotics, autonomous driving, world models, and spatial reasoning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-07T01:30:59Z",
-            "owner": "hanjianhua44",
-            "repo": "Awesome-VLA-Papers",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Embodied AI, Robotics, and World Models"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Core Machine Learning Research"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "AutoML Papers",
-          "description": "automated machine learning papers and tutorials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-11T16:51:05Z",
-            "owner": "hibayesian",
-            "repo": "awesome-automl-papers",
-            "stars": 4153
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Speech Recognition and Speech Synthesis Papers",
+              "description": "ASR and TTS papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89726872,
+                "language": null,
+                "last_commit": "2023-10-19T03:52:13Z",
+                "owner": "zzw922cn",
+                "repo": "awesome-speech-recognition-speech-synthesis-papers",
+                "stars": 3128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Learning Music",
+              "description": "deep learning for music.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100402731,
+                "language": "TeX",
+                "last_commit": "2023-12-15T16:51:26Z",
+                "owner": "ybayle",
+                "repo": "awesome-deep-learning-music",
+                "stars": 2978
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Sentence Embedding",
+              "description": "sentence embedding resources.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 161199191,
+                "language": "Python",
+                "last_commit": "2021-04-23T09:28:48Z",
+                "owner": "Separius",
+                "repo": "awesome-sentence-embedding",
+                "stars": 2289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speech Synthesis Papers",
+              "description": "speech synthesis paper list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286370470,
+                "language": null,
+                "last_commit": "2023-07-24T06:46:12Z",
+                "owner": "wenet-e2e",
+                "repo": "speech-synthesis-paper",
+                "stars": 1074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Speech Enhancement",
+              "description": "speech enhancement papers and tutorials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276415100,
+                "language": "MATLAB",
+                "last_commit": "2020-12-01T10:20:50Z",
+                "owner": "nanahou",
+                "repo": "Awesome-Speech-Enhancement",
+                "stars": 835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome NLG",
+              "description": "natural language generation papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212309257,
+                "language": null,
+                "last_commit": "2023-09-03T09:17:31Z",
+                "owner": "accelerated-text",
+                "repo": "awesome-nlg",
+                "stars": 482
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Large Speech Model",
+              "description": "large speech/audio model papers, datasets, tools, applications, and benchmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 845639222,
+                "language": null,
+                "last_commit": "2025-11-08T13:17:11Z",
+                "owner": "huangcanan",
+                "repo": "Awesome-Large-Speech-Model",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Natural Language, Speech, and Audio"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Causality Algorithms",
-          "description": "causal discovery and inference algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-22T11:00:42Z",
-            "owner": "rguo12",
-            "repo": "awesome-causality-algorithms",
-            "stars": 3274
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RSTutorials",
+              "description": "must-read recommender system papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119543316,
+                "language": null,
+                "last_commit": "2026-03-12T13:22:40Z",
+                "owner": "hongleizhang",
+                "repo": "RSPapers",
+                "stars": 6513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real-Time Bidding Papers",
+              "description": "RTB and computational advertising papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47214149,
+                "language": null,
+                "last_commit": "2024-12-20T15:58:36Z",
+                "owner": "wnzhang",
+                "repo": "rtb-papers",
+                "stars": 3689
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Learning Papers for Search, Recommendation, and Advertising",
+              "description": "industrial search, recommendation, ranking, ads, LLM, and RL papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293218224,
+                "language": "Python",
+                "last_commit": "2026-04-25T11:36:26Z",
+                "owner": "guyulongcs",
+                "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+                "stars": 2584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Recommender System",
+              "description": "recommender system papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193835095,
+                "language": "TeX",
+                "last_commit": "2021-12-30T08:09:14Z",
+                "owner": "fuhailin",
+                "repo": "awesome-RecSys",
+                "stars": 284
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Recommendation, Search, and Ads"
         },
         {
-          "node_type": "item",
-          "title": "Machine Learning Surveys",
-          "description": "survey papers across ML, NLP, CV, graphs, RL, and recommendation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-17T05:00:49Z",
-            "owner": "eugeneyan",
-            "repo": "ml-surveys",
-            "stars": 2903
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Quant Machine Learning Trading",
+              "description": "quant trading and ML resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156283359,
+                "language": null,
+                "last_commit": "2025-05-21T20:41:58Z",
+                "owner": "grananqvist",
+                "repo": "Awesome-Quant-Machine-Learning-Trading",
+                "stars": 3964
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome GAN for Medical Imaging",
+              "description": "medical image synthesis papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101222904,
+                "language": null,
+                "last_commit": "2022-05-29T21:59:19Z",
+                "owner": "xinario",
+                "repo": "awesome-gan-for-medical-imaging",
+                "stars": 2362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome DeepBio",
+              "description": "deep learning for computational biology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50022436,
+                "language": null,
+                "last_commit": "2021-11-07T22:43:41Z",
+                "owner": "gokceneraslan",
+                "repo": "awesome-deepbio",
+                "stars": 1988
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI for Science",
+              "description": "AI tools, papers, datasets, and frameworks for scientific discovery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1069616483,
+                "language": null,
+                "last_commit": "2026-08-18T19:33:59Z",
+                "owner": "ai4s-research",
+                "repo": "awesome-ai-for-science",
+                "stars": 1884
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Agents for Healthcare",
+              "description": "healthcare agentic AI papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1077926723,
+                "language": null,
+                "last_commit": "2026-08-14T19:00:24Z",
+                "owner": "AgenticHealthAI",
+                "repo": "Awesome-AI-Agents-for-Healthcare",
+                "stars": 1215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Scientific Language Models",
+              "description": "scientific language models across math, physics, chemistry, materials, biology, medicine, and geoscience.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739217887,
+                "language": null,
+                "last_commit": "2025-06-21T11:59:38Z",
+                "owner": "yuzhimanhua",
+                "repo": "Awesome-Scientific-Language-Models",
+                "stars": 662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Research Agent",
+              "description": "deep research agents, AI scientist systems, search-augmented reasoning, and research workflow papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952507917,
+                "language": null,
+                "last_commit": "2025-09-18T18:48:52Z",
+                "owner": "WuizaKaseiyo",
+                "repo": "awesome-deep-research-agent",
+                "stars": 634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Scientist",
+              "description": "survey-style collection on AI scientists, AI researchers, AI engineers, and automated research pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 959052281,
+                "language": null,
+                "last_commit": "2025-10-31T19:11:22Z",
+                "owner": "ResearAI",
+                "repo": "Awesome-AI-Scientist",
+                "stars": 304
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Helical",
+              "description": "framework for using and fine-tuning bio foundation models across genomics and transcriptomics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792692027,
+                "language": "Python",
+                "last_commit": "2026-08-10T09:31:30Z",
+                "owner": "helicalAI",
+                "repo": "helical",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI for Research",
+              "description": "AI-for-research papers and systems organized by research stage, role, domain, and evaluation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1196260048,
+                "language": "Python",
+                "last_commit": "2026-06-16T03:54:26Z",
+                "owner": "THU-KEG",
+                "repo": "Awesome-AI-for-Research",
+                "stars": 112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Science, Medicine, and Quant"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Decision Tree Papers",
-          "description": "decision tree, classification tree, and regression tree papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-28T23:17:27Z",
-            "owner": "benedekrozemberczki",
-            "repo": "awesome-decision-tree-papers",
-            "stars": 2473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AutoDL",
-          "description": "automated deep learning and neural architecture search.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-26T01:35:49Z",
-            "owner": "D-X-Y",
-            "repo": "Awesome-AutoDL",
-            "stars": 2340
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Machine Learning Surveys and Tutorials",
-          "description": "older but still useful survey collection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T13:49:06Z",
-            "owner": "metrofun",
-            "repo": "machine-learning-surveys",
-            "stars": 1408
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Architecture Search",
-          "description": "neural architecture search resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-09-15T19:52:12Z",
-            "owner": "markdtw",
-            "repo": "awesome-architecture-search",
-            "stars": 1190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Time Series Papers",
-          "description": "recent time-series papers and code across forecasting, anomaly detection, foundation models, and representation learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-12T17:00:18Z",
-            "owner": "TSCenter",
-            "repo": "awesome-time-series-papers",
-            "stars": 1082
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Learning Uncertainty",
-          "description": "predictive uncertainty in deep learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-08-01T23:37:51Z",
-            "owner": "AlaaLab",
-            "repo": "deep-learning-uncertainty",
-            "stars": 643
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Online Machine Learning",
-          "description": "online and streaming ML resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-31T21:32:37Z",
-            "owner": "online-ml",
-            "repo": "awesome-online-machine-learning",
-            "stars": 627
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bayesian Deep Learning Survey",
-          "description": "Bayesian deep learning survey resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-04T06:24:25Z",
-            "owner": "js05212",
-            "repo": "BayesianDeepLearning-Survey",
-            "stars": 521
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Anomaly Detection Resources",
+              "description": "anomaly detection papers, books, code, and datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133717148,
+                "language": "Python",
+                "last_commit": "2026-03-02T04:42:20Z",
+                "owner": "yzhao062",
+                "repo": "anomaly-detection-resources",
+                "stars": 9365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Anomaly Detection",
+              "description": "anomaly detection papers and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146555808,
+                "language": null,
+                "last_commit": "2022-09-20T09:33:40Z",
+                "owner": "hoya012",
+                "repo": "awesome-anomaly-detection",
+                "stars": 2898
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Anomaly Detection"
         }
       ],
-      "title": "General ML, Surveys, and Methods"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Data-Juicer",
-          "description": "data processing, cleaning, filtering, and analysis toolkit for foundation-model datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T09:19:31Z",
-            "owner": "datajuicer",
-            "repo": "data-juicer",
-            "stars": 6904
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Open Data-Centric AI",
-          "description": "open-source tools for data-centric AI on unstructured data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-11-15T11:02:12Z",
-            "owner": "Renumics",
-            "repo": "awesome-open-data-centric-ai",
-            "stars": 736
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Synthetic Datasets",
-          "description": "practical resources and examples for creating synthetic text and vision datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-02T12:20:04Z",
-            "owner": "davanstrien",
-            "repo": "awesome-synthetic-datasets",
-            "stars": 338
-          }
-        }
-      ],
-      "title": "Data-Centric AI and Data Curation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Self-Supervised Learning",
-          "description": "self-supervised learning methods.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-02-24T08:30:02Z",
-            "owner": "jason718",
-            "repo": "awesome-self-supervised-learning",
-            "stars": 6411
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Domain Adaptation",
-          "description": "domain adaptation papers and code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-12-08T06:04:32Z",
-            "owner": "zhaoxin94",
-            "repo": "awesome-domain-adaptation",
-            "stars": 5457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Incremental Learning",
-          "description": "incremental and lifelong learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-27T08:44:09Z",
-            "owner": "xialeiliu",
-            "repo": "Awesome-Incremental-Learning",
-            "stars": 4512
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Machine Learning Interpretability",
-          "description": "responsible ML, interpretability, and explainability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-03T15:17:31Z",
-            "owner": "jphall663",
-            "repo": "awesome-machine-learning-interpretability",
-            "stars": 4058
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Knowledge Distillation",
-          "description": "distillation papers and implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-25T23:16:02Z",
-            "owner": "dkozlov",
-            "repo": "awesome-knowledge-distillation",
-            "stars": 3901
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Learning with Label Noise",
-          "description": "noisy-label learning papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-05-03T11:47:41Z",
-            "owner": "subeeshvasu",
-            "repo": "Awesome-Learning-with-Label-Noise",
-            "stars": 2718
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Transfer Learning",
-          "description": "transfer learning and domain adaptation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-08-25T08:09:09Z",
-            "owner": "artix41",
-            "repo": "awesome-transfer-learning",
-            "stars": 1777
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Explainable AI",
-          "description": "explainability papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Markdown",
-            "last_commit": "2026-03-07T11:27:21Z",
-            "owner": "wangyongjie-ntu",
-            "repo": "Awesome-explainable-AI",
-            "stars": 1650
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome LLM Interpretability",
-          "description": "LLM interpretability tools, papers, communities, sparse autoencoders, probing, and mechanistic interpretability resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-11T01:22:02Z",
-            "owner": "JShollaj",
-            "repo": "awesome-llm-interpretability",
-            "stars": 1638
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Meta Learning",
-          "description": "meta-learning papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-11-24T09:32:33Z",
-            "owner": "sudharsan13296",
-            "repo": "Awesome-Meta-Learning",
-            "stars": 1555
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Interpretable Machine Learning",
-          "description": "interpretable ML papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-19T09:28:48Z",
-            "owner": "lopusz",
-            "repo": "awesome-interpretable-machine-learning",
-            "stars": 918
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Continual Learning Papers",
-          "description": "continual learning papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2023-07-25T01:23:19Z",
-            "owner": "optimass",
-            "repo": "continual_learning_papers",
-            "stars": 743
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Machine Learning",
-          "description": "adversarial ML papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-09-21T04:02:28Z",
-            "owner": "wangjksjtu",
-            "repo": "awesome-AML",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Open World Learning",
-          "description": "open-world, open-set, and incremental recognition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-10-19T11:31:21Z",
-            "owner": "LAMDA-CL",
-            "repo": "Awesome-open-world-learning",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Robustness, Interpretability, and Learning Paradigms"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome RL",
-          "description": "reinforcement learning resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-25T22:25:44Z",
-            "owner": "aikorea",
-            "repo": "awesome-rl",
-            "stars": 9914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep RL",
-          "description": "deep reinforcement learning papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-03-01T08:20:45Z",
-            "owner": "tigerneil",
-            "repo": "awesome-deep-rl",
-            "stars": 1512
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Reasoning Papers",
-          "description": "neural-symbolic, logical, visual, and planning-oriented reasoning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-05-30T04:26:16Z",
-            "owner": "floodsung",
-            "repo": "Deep-Reasoning-Papers",
-            "stars": 316
-          }
-        }
-      ],
-      "title": "Reinforcement Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Federated Machine Learning",
-          "description": "federated ML papers, books, code, tutorials, and videos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-05-30T21:21:42Z",
-            "owner": "innovation-cat",
-            "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2089
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Federated Learning",
-          "description": "federated learning papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-11-16T16:14:13Z",
-            "owner": "weimingwill",
-            "repo": "awesome-federated-learning",
-            "stars": 738
-          }
-        }
-      ],
-      "title": "Federated and Privacy-Preserving ML"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Must-Read Papers on GNN",
-          "description": "curated GNN papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-12-20T03:33:14Z",
-            "owner": "thunlp",
-            "repo": "GNNPapers",
-            "stars": 16831
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graph-Based Deep Learning Literature",
-          "description": "graph deep learning papers by venue.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-06-07T20:24:09Z",
-            "owner": "naganandy",
-            "repo": "graph-based-deep-learning-literature",
-            "stars": 5094
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Graph Classification",
-          "description": "graph classification and representation learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-18T12:10:08Z",
-            "owner": "benedekrozemberczki",
-            "repo": "awesome-graph-classification",
-            "stars": 4799
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Community Detection",
-          "description": "community detection papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-20T17:06:00Z",
-            "owner": "benedekrozemberczki",
-            "repo": "awesome-community-detection",
-            "stars": 2449
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Graph Neural Networks",
-          "description": "GNN paper list.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-12-29T15:02:47Z",
-            "owner": "TrustAGI-Lab",
-            "repo": "Awesome-Graph-Neural-Networks",
-            "stars": 2310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Knowledge Graphs",
-          "description": "knowledge graph papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-07T16:30:33Z",
-            "owner": "shaoxiongji",
-            "repo": "knowledge-graphs",
-            "stars": 1790
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Self-Supervised GNN",
-          "description": "self-supervised learning on graphs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-02T14:48:59Z",
-            "owner": "ChandlerBang",
-            "repo": "awesome-self-supervised-gnn",
-            "stars": 1729
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Knowledge Representation Learning",
-          "description": "knowledge representation learning papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2021-08-29T07:30:25Z",
-            "owner": "thunlp",
-            "repo": "KRLPapers",
-            "stars": 1523
-          }
-        }
-      ],
-      "title": "Graph Learning and Knowledge Graphs"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Domain Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome Speech Recognition and Speech Synthesis Papers",
-          "description": "ASR and TTS papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-10-19T03:52:13Z",
-            "owner": "zzw922cn",
-            "repo": "awesome-speech-recognition-speech-synthesis-papers",
-            "stars": 3128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Learning Music",
-          "description": "deep learning for music.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2023-12-15T16:51:26Z",
-            "owner": "ybayle",
-            "repo": "awesome-deep-learning-music",
-            "stars": 2978
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Sentence Embedding",
-          "description": "sentence embedding resources.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-04-23T09:28:48Z",
-            "owner": "Separius",
-            "repo": "awesome-sentence-embedding",
-            "stars": 2289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Speech Synthesis Papers",
-          "description": "speech synthesis paper list.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-07-24T06:46:12Z",
-            "owner": "wenet-e2e",
-            "repo": "speech-synthesis-paper",
-            "stars": 1074
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Speech Enhancement",
-          "description": "speech enhancement papers and tutorials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2020-12-01T10:20:50Z",
-            "owner": "nanahou",
-            "repo": "Awesome-Speech-Enhancement",
-            "stars": 835
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome NLG",
-          "description": "natural language generation papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-09-03T09:17:31Z",
-            "owner": "accelerated-text",
-            "repo": "awesome-nlg",
-            "stars": 482
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Large Speech Model",
-          "description": "large speech/audio model papers, datasets, tools, applications, and benchmarks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-11-08T13:17:11Z",
-            "owner": "huangcanan",
-            "repo": "Awesome-Large-Speech-Model",
-            "stars": 28
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Public Datasets",
+              "description": "topic-centric list of public datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-04T19:54:53Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MinerU",
+              "description": "open-source document extraction tool for converting complex PDFs and Office files into Markdown/JSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 765083837,
+                "language": "Python",
+                "last_commit": "2026-08-17T21:33:44Z",
+                "owner": "opendatalab",
+                "repo": "MinerU",
+                "stars": 77968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAI Cookbook",
+              "description": "practical examples and guides for building and evaluating AI systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468576060,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-19T00:12:21Z",
+                "owner": "openai",
+                "repo": "openai-cookbook",
+                "stars": 75345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LeRobot",
+              "description": "open models, datasets, tools, and tutorials for robotics research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 748713144,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:53:07Z",
+                "owner": "huggingface",
+                "repo": "lerobot",
+                "stars": 26751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAI Evals",
+              "description": "framework and open registry for evaluating LLMs and LLM systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 592489166,
+                "language": "Python",
+                "last_commit": "2026-04-14T15:29:57Z",
+                "owner": "openai",
+                "repo": "evals",
+                "stars": 19198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepEval",
+              "description": "LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 676829188,
+                "language": "Python",
+                "last_commit": "2026-08-17T11:05:50Z",
+                "owner": "confident-ai",
+                "repo": "deepeval",
+                "stars": 17692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LM Evaluation Harness",
+              "description": "widely used framework for evaluating language models on many benchmark tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290909192,
+                "language": "Python",
+                "last_commit": "2026-08-14T09:42:10Z",
+                "owner": "EleutherAI",
+                "repo": "lm-evaluation-harness",
+                "stars": 13714
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenCompass",
+              "description": "open evaluation platform for LLMs and multimodal models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654124617,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:15:41Z",
+                "owner": "open-compass",
+                "repo": "opencompass",
+                "stars": 7316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SWE-bench",
+              "description": "benchmark and evaluation harness for real-world software engineering issue resolution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 700117650,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:53:40Z",
+                "owner": "SWE-bench",
+                "repo": "SWE-bench",
+                "stars": 5666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARC-AGI",
+              "description": "abstraction-and-reasoning benchmark for testing generalization on novel visual puzzle tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219623588,
+                "language": "JavaScript",
+                "last_commit": "2025-04-04T21:28:40Z",
+                "owner": "fchollet",
+                "repo": "ARC-AGI",
+                "stars": 4810
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple Evals",
+              "description": "lightweight evaluation examples and baseline eval implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 785446833,
+                "language": "Python",
+                "last_commit": "2026-04-22T22:16:18Z",
+                "owner": "openai",
+                "repo": "simple-evals",
+                "stars": 4604
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentBench",
+              "description": "benchmark and leaderboard for evaluating LLM agents across interactive environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671759870,
+                "language": "Python",
+                "last_commit": "2026-02-08T17:01:05Z",
+                "owner": "THUDM",
+                "repo": "AgentBench",
+                "stars": 3675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MTEB",
+              "description": "embedding benchmark suite and leaderboard across languages, tasks, and modalities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478037973,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:04:25Z",
+                "owner": "embeddings-benchmark",
+                "repo": "mteb",
+                "stars": 3398
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSWorld",
+              "description": "benchmark for multimodal agents completing open-ended tasks in real computer environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705433049,
+                "language": "Python",
+                "last_commit": "2026-08-12T16:12:29Z",
+                "owner": "xlang-ai",
+                "repo": "OSWorld",
+                "stars": 3098
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HELM",
+              "description": "holistic evaluation framework and leaderboards for language, multimodal, safety, and domain benchmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432968463,
+                "language": "Python",
+                "last_commit": "2026-08-01T01:23:17Z",
+                "owner": "stanford-crfm",
+                "repo": "helm",
+                "stars": 2880
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inspect AI",
+              "description": "open-source framework for LLM, multimodal, coding, and agent evaluations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 718665019,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:46:27Z",
+                "owner": "UKGovernmentBEIS",
+                "repo": "inspect_ai",
+                "stars": 2574
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tau2-bench",
+              "description": "tool-agent-user interaction benchmark for text and voice customer-service agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999222244,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:07:54Z",
+                "owner": "sierra-research",
+                "repo": "tau2-bench",
+                "stars": 1822
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLE-bench",
+              "description": "benchmark for measuring how well AI agents perform at machine learning engineering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 869660918,
+                "language": "Python",
+                "last_commit": "2026-04-24T17:33:44Z",
+                "owner": "openai",
+                "repo": "mle-bench",
+                "stars": 1700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebArena",
+              "description": "realistic self-hosted web environment and benchmark for autonomous web agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 670111980,
+                "language": "Python",
+                "last_commit": "2025-11-26T21:16:00Z",
+                "owner": "web-arena-x",
+                "repo": "webarena",
+                "stars": 1584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SWE-Lancer",
+              "description": "benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956639757,
+                "language": "Python",
+                "last_commit": "2026-04-21T20:53:31Z",
+                "owner": "openai",
+                "repo": "frontier-evals",
+                "stars": 1284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PaperBench",
+              "description": "benchmark for end-to-end replication of state-of-the-art AI papers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956639757,
+                "language": "Python",
+                "last_commit": "2026-04-21T20:53:31Z",
+                "owner": "openai",
+                "repo": "frontier-evals",
+                "stars": 1284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiveCodeBench",
+              "description": "contamination-aware benchmark for code generation, repair, execution, and test prediction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771234452,
+                "language": "Python",
+                "last_commit": "2025-07-16T00:58:38Z",
+                "owner": "LiveCodeBench",
+                "repo": "LiveCodeBench",
+                "stars": 934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Agent Company",
+              "description": "benchmark for autonomous agents completing workplace tasks in a simulated software company.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 770272502,
+                "language": "Python",
+                "last_commit": "2025-11-17T20:31:16Z",
+                "owner": "TheAgentCompany",
+                "repo": "TheAgentCompany",
+                "stars": 766
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Eval",
+              "description": "tools, datasets, benchmarks, leaderboards, papers, and demos for LLM evaluation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632878141,
+                "language": null,
+                "last_commit": "2025-11-24T01:59:12Z",
+                "owner": "onejune2018",
+                "repo": "Awesome-LLM-Eval",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inspect Evals",
+              "description": "community collection of ready-to-run benchmark implementations for Inspect AI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 866415939,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:09:44Z",
+                "owner": "UKGovernmentBEIS",
+                "repo": "inspect_evals",
+                "stars": 632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLGym",
+              "description": "framework and benchmark for evaluating AI research agents on open-ended machine learning tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 934994891,
+                "language": "Python",
+                "last_commit": "2025-08-10T20:00:53Z",
+                "owner": "facebookresearch",
+                "repo": "MLGym",
+                "stars": 618
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BigCodeBench",
+              "description": "practical code-generation benchmark with diverse function calls, complex instructions, and a leaderboard.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 793526430,
+                "language": "Python",
+                "last_commit": "2026-01-03T07:22:42Z",
+                "owner": "bigcode-project",
+                "repo": "bigcodebench",
+                "stars": 519
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SciCode",
+              "description": "scientist-curated benchmark for code generation on realistic scientific research problems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 825810755,
+                "language": "Python",
+                "last_commit": "2026-08-17T17:17:51Z",
+                "owner": "scicode-bench",
+                "repo": "SciCode",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Benchmarks",
+              "description": "searchable collection of benchmarks for agents, reasoning, code, multimodal, translation, and other AI domains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1030521451,
+                "language": "TypeScript",
+                "last_commit": "2026-07-28T07:01:18Z",
+                "owner": "panilya",
+                "repo": "awesome-ai-benchmarks",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Scientific LLM Benchmarks",
+              "description": "benchmarks for evaluating LLMs on scientific reasoning, discovery, and domain knowledge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1289258261,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T10:00:31Z",
+                "owner": "subinium",
+                "repo": "Awesome-Scientific-LLM-Benchmarks",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Models, Datasets, and Evaluation"
         }
       ],
-      "title": "Natural Language, Speech, and Audio"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RSTutorials",
-          "description": "must-read recommender system papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-12T13:22:40Z",
-            "owner": "hongleizhang",
-            "repo": "RSPapers",
-            "stars": 6513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Real-Time Bidding Papers",
-          "description": "RTB and computational advertising papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-20T15:58:36Z",
-            "owner": "wnzhang",
-            "repo": "rtb-papers",
-            "stars": 3689
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Learning Papers for Search, Recommendation, and Advertising",
-          "description": "industrial search, recommendation, ranking, ads, LLM, and RL papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-25T11:36:26Z",
-            "owner": "guyulongcs",
-            "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2584
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Recommender System",
-          "description": "recommender system papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2021-12-30T08:09:14Z",
-            "owner": "fuhailin",
-            "repo": "awesome-RecSys",
-            "stars": 284
-          }
-        }
-      ],
-      "title": "Recommendation, Search, and Ads"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Quant Machine Learning Trading",
-          "description": "quant trading and ML resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-05-21T20:41:58Z",
-            "owner": "grananqvist",
-            "repo": "Awesome-Quant-Machine-Learning-Trading",
-            "stars": 3960
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome GAN for Medical Imaging",
-          "description": "medical image synthesis papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-05-29T21:59:19Z",
-            "owner": "xinario",
-            "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome DeepBio",
-          "description": "deep learning for computational biology.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-11-07T22:43:41Z",
-            "owner": "gokceneraslan",
-            "repo": "awesome-deepbio",
-            "stars": 1988
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI for Science",
-          "description": "AI tools, papers, datasets, and frameworks for scientific discovery.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T23:25:06Z",
-            "owner": "ai4s-research",
-            "repo": "awesome-ai-for-science",
-            "stars": 1881
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Agents for Healthcare",
-          "description": "healthcare agentic AI papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T19:00:24Z",
-            "owner": "AgenticHealthAI",
-            "repo": "Awesome-AI-Agents-for-Healthcare",
-            "stars": 1213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Scientific Language Models",
-          "description": "scientific language models across math, physics, chemistry, materials, biology, medicine, and geoscience.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-06-21T11:59:38Z",
-            "owner": "yuzhimanhua",
-            "repo": "Awesome-Scientific-Language-Models",
-            "stars": 662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Research Agent",
-          "description": "deep research agents, AI scientist systems, search-augmented reasoning, and research workflow papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-18T18:48:52Z",
-            "owner": "WuizaKaseiyo",
-            "repo": "awesome-deep-research-agent",
-            "stars": 633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Scientist",
-          "description": "survey-style collection on AI scientists, AI researchers, AI engineers, and automated research pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-31T19:11:22Z",
-            "owner": "ResearAI",
-            "repo": "Awesome-AI-Scientist",
-            "stars": 304
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Helical",
-          "description": "framework for using and fine-tuning bio foundation models across genomics and transcriptomics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T09:31:30Z",
-            "owner": "helicalAI",
-            "repo": "helical",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI for Research",
-          "description": "AI-for-research papers and systems organized by research stage, role, domain, and evaluation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-16T03:54:26Z",
-            "owner": "THU-KEG",
-            "repo": "Awesome-AI-for-Research",
-            "stars": 111
-          }
-        }
-      ],
-      "title": "Science, Medicine, and Quant"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Anomaly Detection Resources",
-          "description": "anomaly detection papers, books, code, and datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-02T04:42:20Z",
-            "owner": "yzhao062",
-            "repo": "anomaly-detection-resources",
-            "stars": 9365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Anomaly Detection",
-          "description": "anomaly detection papers and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-20T09:33:40Z",
-            "owner": "hoya012",
-            "repo": "awesome-anomaly-detection",
-            "stars": 2898
-          }
-        }
-      ],
-      "title": "Anomaly Detection"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Research Feeds, Benchmarks, and Model/Data Hubs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Public Datasets",
-          "description": "topic-centric list of public datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-04T19:54:53Z",
-            "owner": "awesomedata",
-            "repo": "awesome-public-datasets",
-            "stars": 78130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MinerU",
-          "description": "open-source document extraction tool for converting complex PDFs and Office files into Markdown/JSON.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T21:33:44Z",
-            "owner": "opendatalab",
-            "repo": "MinerU",
-            "stars": 77895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAI Cookbook",
-          "description": "practical examples and guides for building and evaluating AI systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T09:05:55Z",
-            "owner": "openai",
-            "repo": "openai-cookbook",
-            "stars": 75309
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LeRobot",
-          "description": "open models, datasets, tools, and tutorials for robotics research.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T04:03:39Z",
-            "owner": "huggingface",
-            "repo": "lerobot",
-            "stars": 26731
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAI Evals",
-          "description": "framework and open registry for evaluating LLMs and LLM systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-14T15:29:57Z",
-            "owner": "openai",
-            "repo": "evals",
-            "stars": 19193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepEval",
-          "description": "LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T11:05:50Z",
-            "owner": "confident-ai",
-            "repo": "deepeval",
-            "stars": 17658
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LM Evaluation Harness",
-          "description": "widely used framework for evaluating language models on many benchmark tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T09:42:10Z",
-            "owner": "EleutherAI",
-            "repo": "lm-evaluation-harness",
-            "stars": 13694
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenCompass",
-          "description": "open evaluation platform for LLMs and multimodal models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T14:00:16Z",
-            "owner": "open-compass",
-            "repo": "opencompass",
-            "stars": 7313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SWE-bench",
-          "description": "benchmark and evaluation harness for real-world software engineering issue resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T01:07:16Z",
-            "owner": "SWE-bench",
-            "repo": "SWE-bench",
-            "stars": 5658
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ARC-AGI",
-          "description": "abstraction-and-reasoning benchmark for testing generalization on novel visual puzzle tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-04-04T21:28:40Z",
-            "owner": "fchollet",
-            "repo": "ARC-AGI",
-            "stars": 4810
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple Evals",
-          "description": "lightweight evaluation examples and baseline eval implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-22T22:16:18Z",
-            "owner": "openai",
-            "repo": "simple-evals",
-            "stars": 4603
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentBench",
-          "description": "benchmark and leaderboard for evaluating LLM agents across interactive environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-08T17:01:05Z",
-            "owner": "THUDM",
-            "repo": "AgentBench",
-            "stars": 3675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MTEB",
-          "description": "embedding benchmark suite and leaderboard across languages, tasks, and modalities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:07:39Z",
-            "owner": "embeddings-benchmark",
-            "repo": "mteb",
-            "stars": 3396
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OSWorld",
-          "description": "benchmark for multimodal agents completing open-ended tasks in real computer environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T16:12:29Z",
-            "owner": "xlang-ai",
-            "repo": "OSWorld",
-            "stars": 3091
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HELM",
-          "description": "holistic evaluation framework and leaderboards for language, multimodal, safety, and domain benchmarks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T01:23:17Z",
-            "owner": "stanford-crfm",
-            "repo": "helm",
-            "stars": 2879
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inspect AI",
-          "description": "open-source framework for LLM, multimodal, coding, and agent evaluations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:31:12Z",
-            "owner": "UKGovernmentBEIS",
-            "repo": "inspect_ai",
-            "stars": 2568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tau2-bench",
-          "description": "tool-agent-user interaction benchmark for text and voice customer-service agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T20:59:57Z",
-            "owner": "sierra-research",
-            "repo": "tau2-bench",
-            "stars": 1814
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLE-bench",
-          "description": "benchmark for measuring how well AI agents perform at machine learning engineering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-24T17:33:44Z",
-            "owner": "openai",
-            "repo": "mle-bench",
-            "stars": 1698
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebArena",
-          "description": "realistic self-hosted web environment and benchmark for autonomous web agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-26T21:16:00Z",
-            "owner": "web-arena-x",
-            "repo": "webarena",
-            "stars": 1582
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SWE-Lancer",
-          "description": "benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-21T20:53:31Z",
-            "owner": "openai",
-            "repo": "frontier-evals",
-            "stars": 1284
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PaperBench",
-          "description": "benchmark for end-to-end replication of state-of-the-art AI papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-21T20:53:31Z",
-            "owner": "openai",
-            "repo": "frontier-evals",
-            "stars": 1284
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LiveCodeBench",
-          "description": "contamination-aware benchmark for code generation, repair, execution, and test prediction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-16T00:58:38Z",
-            "owner": "LiveCodeBench",
-            "repo": "LiveCodeBench",
-            "stars": 935
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The Agent Company",
-          "description": "benchmark for autonomous agents completing workplace tasks in a simulated software company.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-17T20:31:16Z",
-            "owner": "TheAgentCompany",
-            "repo": "TheAgentCompany",
-            "stars": 766
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome LLM Eval",
-          "description": "tools, datasets, benchmarks, leaderboards, papers, and demos for LLM evaluation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-11-24T01:59:12Z",
-            "owner": "onejune2018",
-            "repo": "Awesome-LLM-Eval",
-            "stars": 656
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inspect Evals",
-          "description": "community collection of ready-to-run benchmark implementations for Inspect AI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:15:16Z",
-            "owner": "UKGovernmentBEIS",
-            "repo": "inspect_evals",
-            "stars": 629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLGym",
-          "description": "framework and benchmark for evaluating AI research agents on open-ended machine learning tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-10T20:00:53Z",
-            "owner": "facebookresearch",
-            "repo": "MLGym",
-            "stars": 618
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BigCodeBench",
-          "description": "practical code-generation benchmark with diverse function calls, complex instructions, and a leaderboard.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-01-03T07:22:42Z",
-            "owner": "bigcode-project",
-            "repo": "bigcodebench",
-            "stars": 519
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SciCode",
-          "description": "scientist-curated benchmark for code generation on realistic scientific research problems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T17:17:51Z",
-            "owner": "scicode-bench",
-            "repo": "SciCode",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Benchmarks",
-          "description": "searchable collection of benchmarks for agents, reasoning, code, multimodal, translation, and other AI domains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-28T07:01:18Z",
-            "owner": "panilya",
-            "repo": "awesome-ai-benchmarks",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Scientific LLM Benchmarks",
-          "description": "benchmarks for evaluating LLMs on scientific reasoning, discovery, and domain knowledge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-03T10:00:31Z",
-            "owner": "subinium",
-            "repo": "Awesome-Scientific-LLM-Benchmarks",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "Models, Datasets, and Evaluation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:15:29.753Z",
+    "last_updated": "2026-08-19T09:16:51.026Z",
     "original_repository": "ThyrixYang/awesome-artificial-intelligence-research",
     "original_repository_sha": "828288cac1ec0afff5f41ef48b3b08354dd2c697",
     "enhanced_repository": "enhansome/enhansome-artificial-intelligence-research",

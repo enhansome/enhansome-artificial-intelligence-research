@@ -39,7 +39,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 ### Large Language Models
 
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,424 | 🐛 465 | 📅 2025-07-31 - broad LLM papers, model lists, training, inference, evaluation, and tutorials.
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,424 | 🐛 466 | 📅 2025-07-31 - broad LLM papers, model lists, training, inference, evaluation, and tutorials.
 * [Awesome LLM Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ⭐ 3,686 | 🐛 26 | 📅 2026-04-20 - reasoning, chain-of-thought, o1/R1-style methods, and multimodal reasoning.
 * [Awesome LLM Evaluation Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) ⭐ 810 | 🐛 31 | 📅 2024-05-08 - evaluation methods, benchmarks, and survey papers.
 * [Awesome Reasoning Foundation Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 661 | 🐛 6 | 📅 2026-09-03 - reasoning with language, vision, and multimodal foundation models.
@@ -52,9 +52,9 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 ### Reasoning, Post-Training, and Synthetic Data
 
-* [Open R1](https://github.com/huggingface/open-r1) ⭐ 26,477 | 🐛 343 | 🌐 Python | 📅 2026-09-24 - open reproduction project for DeepSeek-R1 training, evaluation, and synthetic reasoning data.
-* [verl](https://github.com/verl-project/verl) ⭐ 23,607 | 🐛 1,260 | 🌐 Python | 📅 2026-09-25 - flexible RL post-training framework for LLMs with scalable rollout and training infrastructure.
-* [TRL](https://github.com/huggingface/trl) ⭐ 19,387 | 🐛 289 | 🌐 Python | 📅 2026-09-25 - Hugging Face library for SFT, DPO, GRPO, reward modeling, and RLHF post-training.
+* [Open R1](https://github.com/huggingface/open-r1) ⭐ 26,479 | 🐛 343 | 🌐 Python | 📅 2026-09-24 - open reproduction project for DeepSeek-R1 training, evaluation, and synthetic reasoning data.
+* [verl](https://github.com/verl-project/verl) ⭐ 23,633 | 🐛 1,266 | 🌐 Python | 📅 2026-09-26 - flexible RL post-training framework for LLMs with scalable rollout and training infrastructure.
+* [TRL](https://github.com/huggingface/trl) ⭐ 19,393 | 🐛 289 | 🌐 Python | 📅 2026-09-26 - Hugging Face library for SFT, DPO, GRPO, reward modeling, and RLHF post-training.
 * [Awesome LLM Post-Training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) ⭐ 2,563 | 🐛 20 | 🌐 Python | 📅 2026-09-05 - reasoning LLM post-training, RL, distillation, alignment, and evaluation resources.
 * [Awesome LLM Synthetic Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) ⭐ 1,553 | 🐛 9 | 📅 2025-06-05 - synthetic data generation papers, tools, and guides for LLM training and post-training.
 * [Awesome Inference-Time Scaling](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling) ⭐ 404 | 🐛 0 | 🌐 Python | 📅 2026-09-16 - inference/test-time compute, search, self-refinement, and verifier-guided reasoning papers.
@@ -63,32 +63,32 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 ### RAG, Search, and Knowledge-Intensive AI
 
 * [Database Learning](https://github.com/pingcap/awesome-database-learning) ⭐ 11,031 | 🐛 16 | 📅 2024-08-29 - database systems, data management, and ML-related database resources.
-* [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) ⭐ 3,580 | 🐛 40 | 🌐 Python | 📅 2026-09-19 - research toolkit for efficient RAG pipelines, datasets, metrics, and reproducible experiments.
+* [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) ⭐ 3,582 | 🐛 40 | 🌐 Python | 📅 2026-09-19 - research toolkit for efficient RAG pipelines, datasets, metrics, and reproducible experiments.
 * [Awesome LLM KG](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,614 | 🐛 6 | 📅 2025-05-02 - unifying LLMs and knowledge graphs.
 * [Awesome RAG](https://github.com/coree/awesome-rag) ⭐ 448 | 🐛 21 | 📅 2025-12-01 - retrieval-augmented generation papers, tutorials, tools, and workshops.
 
 ### AI Agents
 
-* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,164 | 🐛 1,064 | 📅 2026-08-21 - autonomous agent projects and resources.
+* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,176 | 🐛 1,065 | 📅 2026-08-21 - autonomous agent projects and resources.
 * [Open Deep Research](https://github.com/langchain-ai/open_deep_research) ⚠️ Archived - open-source research agent implementation for iterative search, synthesis, and reporting.
-* [Awesome AI Agent Papers](https://github.com/VoltAgent/awesome-ai-agent-papers) ⭐ 1,804 | 🐛 0 | 📅 2026-09-21 - weekly updated 2026 agent research papers on memory, tools, evaluation, workflows, and security.
+* [Awesome AI Agent Papers](https://github.com/VoltAgent/awesome-ai-agent-papers) ⭐ 1,806 | 🐛 0 | 📅 2026-09-21 - weekly updated 2026 agent research papers on memory, tools, evaluation, workflows, and security.
 * [Awesome GUI Agent](https://github.com/showlab/awesome-gui-agent) ⭐ 1,215 | 🐛 14 | 📅 2025-08-17 - papers and resources for multimodal GUI, browser, and computer-use agents.
-* [Awesome Data Agents](https://github.com/HKUSTDial/awesome-data-agents) ⭐ 758 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - agents for data preparation, analysis, and data management.
+* [Awesome Data Agents](https://github.com/HKUSTDial/awesome-data-agents) ⭐ 760 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - agents for data preparation, analysis, and data management.
 * [Awesome Computer Use](https://github.com/ranpox/awesome-computer-use) ⭐ 584 | 🐛 16 | 📅 2026-04-15 - computer-use GUI agent papers, projects, blogs, and benchmarks.
-* [Awesome Code Agents](https://github.com/euniai/awesome-code-agents) ⭐ 133 | 🐛 70 | 🌐 Python | 📅 2026-09-21 - coding agents, software engineering agents, benchmarks, and research papers.
+* [Awesome Code Agents](https://github.com/euniai/awesome-code-agents) ⭐ 134 | 🐛 70 | 🌐 Python | 📅 2026-09-21 - coding agents, software engineering agents, benchmarks, and research papers.
 * [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) ⭐ 99 | 🐛 7 | 📅 2024-12-11 - LLM agents for scientific research and development.
 * [Awesome Edge AI for Multimodal Agents](https://github.com/yh-yao/awesome-edge-ai-agents) ⭐ 41 | 🐛 1 | 📅 2026-09-23 - efficient multimodal agents on mobile and edge devices.
 
 ### Agent Protocols, Memory, and Tooling
 
-* [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,515 | 🐛 2,381 | 📅 2026-09-23 - large curated list of Model Context Protocol servers for connecting agents to tools and data sources.
-* [MCP Agent](https://github.com/lastmile-ai/mcp-agent) ⭐ 8,561 | 🐛 139 | 🌐 Python | 📅 2026-01-25 - framework and patterns for building agents on top of Model Context Protocol.
-* [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6,590 | 🐛 101 | 📅 2026-06-07 - MCP-capable clients and applications across desktop, IDE, CLI, and agent workflows.
-* [Awesome Agent Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) ⭐ 648 | 🐛 0 | 🌐 Python | 📅 2026-09-25 - papers, systems, and benchmarks for long-term memory, context engineering, retrieval, and reasoning in agents.
+* [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,542 | 🐛 2,421 | 📅 2026-09-23 - large curated list of Model Context Protocol servers for connecting agents to tools and data sources.
+* [MCP Agent](https://github.com/lastmile-ai/mcp-agent) ⭐ 8,559 | 🐛 139 | 🌐 Python | 📅 2026-01-25 - framework and patterns for building agents on top of Model Context Protocol.
+* [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6,589 | 🐛 103 | 📅 2026-06-07 - MCP-capable clients and applications across desktop, IDE, CLI, and agent workflows.
+* [Awesome Agent Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) ⭐ 648 | 🐛 2 | 🌐 Python | 📅 2026-09-25 - papers, systems, and benchmarks for long-term memory, context engineering, retrieval, and reasoning in agents.
 
 ### Alignment, Safety, Security, and Trustworthiness
 
-* [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,406 | 🐛 31 | 📅 2024-08-19 - ML methods for cyber security.
+* [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,409 | 🐛 31 | 📅 2024-08-19 - ML methods for cyber security.
 * [Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection#research-papers) ⭐ 4,732 | 🐛 60 | 📅 2026-01-05 - practical security detection and hunting research resources.
 * [Awesome AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) ⭐ 1,675 | 🐛 25 | 📅 2026-03-08 - adversarial ML, LLM security, and broader AI security.
 * [Awesome AI Safety](https://github.com/Giskard-AI/awesome-ai-safety) ⭐ 222 | 🐛 21 | 📅 2025-04-14 - AI quality, testing, robustness, fairness, and privacy.
@@ -107,7 +107,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 ### Multimodal and Vision-Language Models
 
-* [Awesome Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,039 | 🐛 114 | 📅 2026-09-18 - current MLLM papers, benchmarks, datasets, and evaluation.
+* [Awesome Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,040 | 🐛 114 | 📅 2026-09-18 - current MLLM papers, benchmarks, datasets, and evaluation.
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml) ⭐ 6,934 | 🐛 13 | 📅 2024-08-20 - classic and modern multimodal machine learning resources.
 * [Awesome Vision-Language Models for Vision Tasks](https://github.com/jingyi0000/VLM_survey) ⭐ 3,126 | 🐛 3 | 📅 2026-09-16 - VLMs for classification, detection, segmentation, and other vision tasks.
 * [MMMU](https://github.com/MMMU-Benchmark/MMMU) ⭐ 598 | 🐛 3 | 🌐 Python | 📅 2026-07-28 - multidisciplinary multimodal understanding and reasoning benchmark with evaluation code and leaderboard.
@@ -116,15 +116,15 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [MathVista](https://github.com/lupantech/MathVista) ⭐ 367 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-07-27 - benchmark, dataset, and leaderboard for mathematical reasoning in visual contexts.
 * [Awesome Document Understanding](https://github.com/harrytea/Awesome-Document-Understanding) ⭐ 202 | 🐛 0 | 📅 2026-08-03 - document AI, OCR, layout understanding, and document-oriented MLLM resources.
 * [MMLongBench](https://github.com/EdinburghNLP/MMLongBench) ⭐ 182 | 🐛 2 | 🌐 Python | 📅 2026-07-07 - benchmark and evaluation code for long-context vision-language models.
-* [Awesome Multimodal Reasoning](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) ⭐ 103 | 🐛 0 | 📅 2026-09-10 - multimodal reasoning and RL-based visual reasoning papers, surveys, benchmarks, and datasets.
+* [Awesome Multimodal Reasoning](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) ⭐ 103 | 🐛 1 | 📅 2026-09-10 - multimodal reasoning and RL-based visual reasoning papers, surveys, benchmarks, and datasets.
 * [Awesome Large Vision-Language Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model) ⭐ 49 | 🐛 0 | 📅 2025-07-23 - VLM papers, medical foundation models, benchmarks, and presentations.
 * [Awesome Large Multimodal Models](https://github.com/FudanDISC/Awesome-Large-Multimodal-Models) ⭐ 21 | 🐛 1 | 📅 2026-02-04 - large multimodal models from input-output space perspectives.
 * [ZeroBench](https://zerobench.github.io/) - challenging visual reasoning benchmark, dataset, and leaderboard for large multimodal models.
 
 ### Diffusion and Generative Models
 
-* [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models) ⭐ 12,372 | 🐛 28 | 🌐 HTML | 📅 2024-08-01 - diffusion and score-based generative model papers and resources.
-* [Really Awesome GAN](https://github.com/nightrome/really-awesome-gan#papers) ⭐ 3,773 | 🐛 1 | 📅 2025-08-24 - GAN papers and resources.
+* [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models) ⭐ 12,373 | 🐛 28 | 🌐 HTML | 📅 2024-08-01 - diffusion and score-based generative model papers and resources.
+* [Really Awesome GAN](https://github.com/nightrome/really-awesome-gan#papers) ⭐ 3,774 | 🐛 1 | 📅 2025-08-24 - GAN papers and resources.
 * [Awesome Normalizing Flows](https://github.com/janosh/awesome-normalizing-flows) ⭐ 1,636 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - normalizing flow papers and implementations.
 * [Awesome Video World Models](https://github.com/hit-perfect/Awesome-Video-World-Models) ⭐ 61 | 🐛 1 | 📅 2026-06-27 - video generation and interactive world-model papers with a state/dynamics taxonomy.
 * [Awesome Video Diffusions](https://github.com/longxiang-ai/awesome-video-diffusions) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2026-09-11 - auto-updated video diffusion and video generation paper tracker.
@@ -142,16 +142,16 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [3D Point Cloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,940 | 🐛 4 | 🌐 Python | 📅 2024-08-30 - point cloud deep learning resources.
 * [Awesome Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) ⭐ 2,613 | 🐛 17 | 📅 2026-01-24 - crowd counting papers and datasets.
 * [Awesome CBIR Papers](https://github.com/willard-yuan/awesome-cbir-papers) ⭐ 1,760 | 🐛 5 | 📅 2026-08-25 - image retrieval and content-based image retrieval.
-* [Awesome Point Cloud Analysis](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021) ⭐ 1,591 | 🐛 5 | 📅 2024-04-10 - 3D point cloud papers and datasets.
+* [Awesome Point Cloud Analysis](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021) ⭐ 1,590 | 🐛 5 | 📅 2024-04-10 - 3D point cloud papers and datasets.
 
 ### Embodied AI, Robotics, and World Models
 
 * [Awesome Autonomous Vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles#papers) ⭐ 2,394 | 🐛 4 | 📅 2024-03-15 - self-driving and autonomous vehicle resources.
-* [Awesome World Models](https://github.com/leofan90/Awesome-World-Models) ⭐ 2,024 | 🐛 0 | 🌐 Python | 📅 2026-09-24 - world models for video generation, embodied AI, robotics, and autonomous driving.
+* [Awesome World Models](https://github.com/leofan90/Awesome-World-Models) ⭐ 2,025 | 🐛 1 | 🌐 Python | 📅 2026-09-24 - world models for video generation, embodied AI, robotics, and autonomous driving.
 * [Awesome VLA Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) ⭐ 497 | 🐛 3 | 📅 2026-03-23 - vision-language-action models and robot foundation model papers.
 * [Awesome Physical AI](https://github.com/keon/awesome-physical-ai) ⭐ 430 | 🐛 19 | 📅 2026-06-24 - VLA models, robot foundation models, world models, diffusion policies, evaluation, and safety.
 * [Awesome Embodied AI](https://github.com/wadeKeith/Awesome-Embodied-AI) ⭐ 246 | 🐛 0 | 🌐 Python | 📅 2026-09-24 - embodied AI surveys, VLA models, datasets, simulators, humanoids, and safety.
-* [Awesome World Models for Robots](https://github.com/operator22th/awesome-world-models-for-robots) ⭐ 142 | 🐛 1 | 📅 2026-03-30 - world-model papers, datasets, and workshops focused on robotics.
+* [Awesome World Models for Robots](https://github.com/operator22th/awesome-world-models-for-robots) ⭐ 144 | 🐛 1 | 📅 2026-03-30 - world-model papers, datasets, and workshops focused on robotics.
 * [Awesome VLA Papers](https://github.com/hanjianhua44/Awesome-VLA-Papers) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-09-22 - VLA papers covering robotics, autonomous driving, world models, and spatial reasoning.
 
 ## Core Machine Learning Research
@@ -165,15 +165,15 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26 - automated deep learning and neural architecture search.
 * [Machine Learning Surveys and Tutorials](https://github.com/metrofun/machine-learning-surveys) ⭐ 1,408 | 🐛 3 | 🌐 JavaScript | 📅 2023-01-03 - older but still useful survey collection.
 * [Awesome Architecture Search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15 - neural architecture search resources.
-* [Awesome Time Series Papers](https://github.com/TSCenter/awesome-time-series-papers) ⭐ 1,113 | 🐛 0 | 📅 2026-09-24 - recent time-series papers and code across forecasting, anomaly detection, foundation models, and representation learning.
+* [Awesome Time Series Papers](https://github.com/TSCenter/awesome-time-series-papers) ⭐ 1,114 | 🐛 0 | 📅 2026-09-24 - recent time-series papers and code across forecasting, anomaly detection, foundation models, and representation learning.
 * [Deep Learning Uncertainty](https://github.com/ahmedmalaa/deep-learning-uncertainty) ⭐ 642 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-08-01 - predictive uncertainty in deep learning.
 * [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning) ⭐ 632 | 🐛 1 | 📅 2026-03-31 - online and streaming ML resources.
 * [Bayesian Deep Learning Survey](https://github.com/js05212/BayesianDeepLearning-Survey) ⭐ 521 | 🐛 0 | 📅 2026-07-04 - Bayesian deep learning survey resources.
 
 ### Data-Centric AI and Data Curation
 
-* [Data-Juicer](https://github.com/datajuicer/data-juicer) ⭐ 7,093 | 🐛 66 | 🌐 Python | 📅 2026-09-22 - data processing, cleaning, filtering, and analysis toolkit for foundation-model datasets.
-* [Awesome Open Data-Centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) ⭐ 738 | 🐛 5 | 📅 2023-11-15 - open-source tools for data-centric AI on unstructured data.
+* [Data-Juicer](https://github.com/datajuicer/data-juicer) ⭐ 7,094 | 🐛 66 | 🌐 Python | 📅 2026-09-22 - data processing, cleaning, filtering, and analysis toolkit for foundation-model datasets.
+* [Awesome Open Data-Centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) ⭐ 737 | 🐛 5 | 📅 2023-11-15 - open-source tools for data-centric AI on unstructured data.
 * [Awesome Synthetic Datasets](https://github.com/davanstrien/awesome-synthetic-datasets) ⭐ 342 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-02 - practical resources and examples for creating synthetic text and vision datasets.
 
 ### Robustness, Interpretability, and Learning Paradigms
@@ -181,12 +181,12 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,429 | 🐛 2 | 📅 2026-02-24 - self-supervised learning methods.
 * [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) ⭐ 5,456 | 🐛 1 | 📅 2025-12-08 - domain adaptation papers and code.
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) ⭐ 4,529 | 🐛 9 | 📅 2026-06-27 - incremental and lifelong learning.
-* [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers) ⭐ 4,068 | 🐛 27 | 📅 2026-06-03 - responsible ML, interpretability, and explainability.
+* [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers) ⭐ 4,069 | 🐛 27 | 📅 2026-06-03 - responsible ML, interpretability, and explainability.
 * [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) ⭐ 3,907 | 🐛 0 | 📅 2026-05-25 - distillation papers and implementations.
-* [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) ⭐ 2,714 | 🐛 3 | 📅 2025-05-03 - noisy-label learning papers.
+* [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) ⭐ 2,715 | 🐛 3 | 📅 2025-05-03 - noisy-label learning papers.
 * [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning) ⭐ 1,777 | 🐛 8 | 📅 2023-08-25 - transfer learning and domain adaptation.
 * [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,656 | 🐛 1 | 🌐 Markdown | 📅 2026-08-19 - explainability papers and resources.
-* [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability) ⭐ 1,649 | 🐛 7 | 📅 2026-08-11 - LLM interpretability tools, papers, communities, sparse autoencoders, probing, and mechanistic interpretability resources.
+* [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability) ⭐ 1,650 | 🐛 7 | 📅 2026-08-11 - LLM interpretability tools, papers, communities, sparse autoencoders, probing, and mechanistic interpretability resources.
 * [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) ⭐ 1,553 | 🐛 1 | 📅 2020-11-24 - meta-learning papers and resources.
 * [Awesome Interpretable Machine Learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ⭐ 917 | 🐛 2 | 🌐 Python | 📅 2023-03-19 - interpretable ML papers.
 * [Continual Learning Papers](https://github.com/optimass/continual_learning_papers) ⭐ 744 | 🐛 6 | 🌐 TeX | 📅 2023-07-25 - continual learning papers.
@@ -195,7 +195,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 ### Reinforcement Learning
 
-* [Awesome RL](https://github.com/aikorea/awesome-rl) ⭐ 9,980 | 🐛 7 | 📅 2023-05-25 - reinforcement learning resources.
+* [Awesome RL](https://github.com/aikorea/awesome-rl) ⭐ 9,982 | 🐛 7 | 📅 2023-05-25 - reinforcement learning resources.
 * [Awesome Deep RL](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,515 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-20 - deep reinforcement learning papers.
 * [Deep Reasoning Papers](https://github.com/floodsung/Deep-Reasoning-Papers) ⭐ 317 | 🐛 3 | 📅 2022-05-30 - neural-symbolic, logical, visual, and planning-oriented reasoning.
 
@@ -211,7 +211,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,802 | 🐛 0 | 🌐 Python | 📅 2023-03-18 - graph classification and representation learning.
 * [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,452 | 🐛 0 | 🌐 Python | 📅 2025-12-20 - community detection papers.
 * [Awesome Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) ⭐ 2,313 | 🐛 7 | 📅 2023-12-29 - GNN paper list.
-* [Knowledge Graphs](https://github.com/shaoxiongji/knowledge-graphs) ⭐ 1,796 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07 - knowledge graph papers and resources.
+* [Knowledge Graphs](https://github.com/shaoxiongji/knowledge-graphs) ⭐ 1,797 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07 - knowledge graph papers and resources.
 * [Awesome Self-Supervised GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn) ⭐ 1,727 | 🐛 1 | 🌐 Python | 📅 2024-02-02 - self-supervised learning on graphs.
 * [Knowledge Representation Learning](https://github.com/thunlp/KRLPapers) ⭐ 1,524 | 🐛 2 | 🌐 TeX | 📅 2021-08-29 - knowledge representation learning papers.
 
@@ -224,26 +224,26 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding) ⚠️ Archived - sentence embedding resources.
 * [Speech Synthesis Papers](https://github.com/xcmyz/speech-synthesis-paper) ⭐ 1,074 | 🐛 2 | 📅 2023-07-24 - speech synthesis paper list.
 * [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) ⭐ 839 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-01 - speech enhancement papers and tutorials.
-* [Awesome NLG](https://github.com/tokenmill/awesome-nlg) ⭐ 483 | 🐛 1 | 📅 2026-09-22 - natural language generation papers and resources.
+* [Awesome NLG](https://github.com/tokenmill/awesome-nlg) ⭐ 482 | 🐛 1 | 📅 2026-09-22 - natural language generation papers and resources.
 * [Awesome Large Speech Model](https://github.com/huangcanan/Awesome-Large-Speech-Model) ⭐ 28 | 🐛 1 | 📅 2025-11-08 - large speech/audio model papers, datasets, tools, applications, and benchmarks.
 
 ### Recommendation, Search, and Ads
 
 * [RSTutorials](https://github.com/hongleizhang/RSPapers) ⭐ 6,513 | 🐛 1 | 📅 2026-03-12 - must-read recommender system papers.
 * [Real-Time Bidding Papers](https://github.com/wnzhang/rtb-papers) ⭐ 3,698 | 🐛 4 | 📅 2024-12-20 - RTB and computational advertising papers.
-* [Awesome Deep Learning Papers for Search, Recommendation, and Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) ⭐ 2,606 | 🐛 0 | 🌐 Python | 📅 2026-09-19 - industrial search, recommendation, ranking, ads, LLM, and RL papers.
+* [Awesome Deep Learning Papers for Search, Recommendation, and Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) ⭐ 2,607 | 🐛 0 | 🌐 Python | 📅 2026-09-19 - industrial search, recommendation, ranking, ads, LLM, and RL papers.
 * [Awesome Recommender System](https://github.com/scnu-dil/awesome-RecSys) ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30 - recommender system papers.
 
 ### Science, Medicine, and Quant
 
 * [Awesome Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 4,030 | 🐛 23 | 📅 2025-05-21 - quant trading and ML resources.
-* [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) ⭐ 2,358 | 🐛 2 | 📅 2022-05-29 - medical image synthesis papers.
-* [Awesome AI for Science](https://github.com/ai-boost/awesome-ai-for-science) ⭐ 1,995 | 🐛 40 | 📅 2026-09-24 - AI tools, papers, datasets, and frameworks for scientific discovery.
+* [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) ⭐ 2,359 | 🐛 2 | 📅 2022-05-29 - medical image synthesis papers.
+* [Awesome AI for Science](https://github.com/ai-boost/awesome-ai-for-science) ⭐ 1,997 | 🐛 40 | 📅 2026-09-24 - AI tools, papers, datasets, and frameworks for scientific discovery.
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,990 | 🐛 6 | 📅 2021-11-07 - deep learning for computational biology.
-* [Awesome AI Agents for Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) ⭐ 1,257 | 🐛 9 | 📅 2026-09-08 - healthcare agentic AI papers and resources.
+* [Awesome AI Agents for Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) ⭐ 1,259 | 🐛 8 | 📅 2026-09-08 - healthcare agentic AI papers and resources.
 * [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) ⭐ 665 | 🐛 0 | 📅 2026-09-16 - scientific language models across math, physics, chemistry, materials, biology, medicine, and geoscience.
 * [Awesome Deep Research Agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) ⭐ 638 | 🐛 9 | 📅 2025-09-18 - deep research agents, AI scientist systems, search-augmented reasoning, and research workflow papers.
-* [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science) ⭐ 630 | 🐛 324 | 🌐 Python | 📅 2026-09-23 - terminal-agent benchmark for expert-curated scientific research workflows across domains.
+* [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science) ⭐ 632 | 🐛 340 | 🌐 Python | 📅 2026-09-23 - terminal-agent benchmark for expert-curated scientific research workflows across domains.
 * [Awesome AI Scientist](https://github.com/ResearAI/Awesome-AI-Scientist) ⭐ 314 | 🐛 3 | 📅 2025-10-31 - survey-style collection on AI scientists, AI researchers, AI engineers, and automated research pipelines.
 * [Helical](https://github.com/helicalAI/helical) ⭐ 231 | 🐛 7 | 🌐 Python | 📅 2026-09-23 - framework for using and fine-tuning bio foundation models across genomics and transcriptomics.
 * [ScienceAgentBench](https://github.com/OSU-NLP-Group/ScienceAgentBench) ⭐ 173 | 🐛 0 | 🌐 Python | 📅 2026-07-18 - benchmark and evaluation harness for language agents on data-driven scientific discovery tasks.
@@ -254,7 +254,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 ### Anomaly Detection
 
-* [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources#4-papers) ⭐ 9,395 | 🐛 14 | 🌐 Python | 📅 2026-03-02 - anomaly detection papers, books, code, and datasets.
+* [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources#4-papers) ⭐ 9,396 | 🐛 14 | 🌐 Python | 📅 2026-03-02 - anomaly detection papers, books, code, and datasets.
 * [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,909 | 🐛 9 | 📅 2022-09-20 - anomaly detection papers and resources.
 
 ## Research Feeds, Benchmarks, and Model/Data Hubs
@@ -269,38 +269,38 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 ### Models, Datasets, and Evaluation
 
-* [MinerU](https://github.com/OpenDataLab/MinerU) ⭐ 80,641 | 🐛 120 | 🌐 Python | 📅 2026-09-24 - open-source document extraction tool for converting complex PDFs and Office files into Markdown/JSON.
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,152 | 🐛 161 | 📅 2026-09-23 - topic-centric list of public datasets.
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 76,184 | 🐛 301 | 🌐 Jupyter Notebook | 📅 2026-09-23 - practical examples and guides for building and evaluating AI systems.
-* [LeRobot](https://github.com/huggingface/lerobot) ⭐ 27,773 | 🐛 951 | 🌐 Python | 📅 2026-09-25 - open models, datasets, tools, and tutorials for robotics research.
-* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,506 | 🐛 341 | 🌐 Python | 📅 2026-04-14 - framework and open registry for evaluating LLMs and LLM systems.
-* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,440 | 🐛 663 | 🌐 Python | 📅 2026-09-24 - LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.
-* [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,074 | 🐛 1,033 | 🌐 Python | 📅 2026-09-14 - widely used framework for evaluating language models on many benchmark tasks.
-* [OpenCompass](https://github.com/open-compass/opencompass) ⭐ 7,473 | 🐛 408 | 🌐 Python | 📅 2026-09-23 - open evaluation platform for LLMs and multimodal models.
-* [SWE-bench](https://github.com/SWE-bench/SWE-bench) ⭐ 5,911 | 🐛 20 | 🌐 Python | 📅 2026-09-18 - benchmark and evaluation harness for real-world software engineering issue resolution.
-* [ARC-AGI](https://github.com/fchollet/ARC-AGI) ⭐ 4,836 | 🐛 38 | 🌐 JavaScript | 📅 2025-04-04 - abstraction-and-reasoning benchmark for testing generalization on novel visual puzzle tasks.
-* [Simple Evals](https://github.com/openai/simple-evals) ⭐ 4,641 | 🐛 64 | 🌐 Python | 📅 2026-04-22 - lightweight evaluation examples and baseline eval implementations.
-* [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ⭐ 4,412 | 🐛 303 | 🌐 Python | 📅 2026-09-24 - open-source toolkit for evaluating large vision-language models across many multimodal benchmarks.
-* [AgentBench](https://github.com/THUDM/AgentBench) ⭐ 3,749 | 🐛 77 | 🌐 Python | 📅 2026-02-08 - benchmark and leaderboard for evaluating LLM agents across interactive environments.
-* [MTEB](https://github.com/embeddings-benchmark/mteb) ⭐ 3,435 | 🐛 336 | 🌐 Python | 📅 2026-09-25 - embedding benchmark suite and leaderboard across languages, tasks, and modalities.
-* [OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,157 | 🐛 207 | 🌐 Python | 📅 2026-09-14 - benchmark for multimodal agents completing open-ended tasks in real computer environments.
+* [MinerU](https://github.com/OpenDataLab/MinerU) ⭐ 80,668 | 🐛 120 | 🌐 Python | 📅 2026-09-24 - open-source document extraction tool for converting complex PDFs and Office files into Markdown/JSON.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,163 | 🐛 161 | 📅 2026-09-23 - topic-centric list of public datasets.
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 76,207 | 🐛 302 | 🌐 Jupyter Notebook | 📅 2026-09-26 - practical examples and guides for building and evaluating AI systems.
+* [LeRobot](https://github.com/huggingface/lerobot) ⭐ 27,788 | 🐛 953 | 🌐 Python | 📅 2026-09-26 - open models, datasets, tools, and tutorials for robotics research.
+* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,509 | 🐛 342 | 🌐 Python | 📅 2026-04-14 - framework and open registry for evaluating LLMs and LLM systems.
+* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,449 | 🐛 665 | 🌐 Python | 📅 2026-09-25 - LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.
+* [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,079 | 🐛 1,045 | 🌐 Python | 📅 2026-09-14 - widely used framework for evaluating language models on many benchmark tasks.
+* [OpenCompass](https://github.com/open-compass/opencompass) ⭐ 7,474 | 🐛 408 | 🌐 Python | 📅 2026-09-23 - open evaluation platform for LLMs and multimodal models.
+* [SWE-bench](https://github.com/SWE-bench/SWE-bench) ⭐ 5,914 | 🐛 20 | 🌐 Python | 📅 2026-09-18 - benchmark and evaluation harness for real-world software engineering issue resolution.
+* [ARC-AGI](https://github.com/fchollet/ARC-AGI) ⭐ 4,837 | 🐛 38 | 🌐 JavaScript | 📅 2025-04-04 - abstraction-and-reasoning benchmark for testing generalization on novel visual puzzle tasks.
+* [Simple Evals](https://github.com/openai/simple-evals) ⭐ 4,642 | 🐛 65 | 🌐 Python | 📅 2026-04-22 - lightweight evaluation examples and baseline eval implementations.
+* [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ⭐ 4,413 | 🐛 303 | 🌐 Python | 📅 2026-09-24 - open-source toolkit for evaluating large vision-language models across many multimodal benchmarks.
+* [AgentBench](https://github.com/THUDM/AgentBench) ⭐ 3,751 | 🐛 77 | 🌐 Python | 📅 2026-02-08 - benchmark and leaderboard for evaluating LLM agents across interactive environments.
+* [MTEB](https://github.com/embeddings-benchmark/mteb) ⭐ 3,436 | 🐛 336 | 🌐 Python | 📅 2026-09-26 - embedding benchmark suite and leaderboard across languages, tasks, and modalities.
+* [OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,156 | 🐛 207 | 🌐 Python | 📅 2026-09-14 - benchmark for multimodal agents completing open-ended tasks in real computer environments.
 * [HELM](https://github.com/stanford-crfm/helm) ⭐ 2,921 | 🐛 108 | 🌐 Python | 📅 2026-09-01 - holistic evaluation framework and leaderboards for language, multimodal, safety, and domain benchmarks.
-* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) ⭐ 2,855 | 🐛 334 | 🌐 Python | 📅 2026-09-25 - open-source framework for LLM, multimodal, coding, and agent evaluations.
-* [tau2-bench](https://github.com/sierra-research/tau2-bench) ⭐ 2,106 | 🐛 226 | 🌐 Python | 📅 2026-09-19 - tool-agent-user interaction benchmark for text and voice customer-service agents.
-* [MLE-bench](https://github.com/openai/mle-bench) ⭐ 1,753 | 🐛 13 | 🌐 Python | 📅 2026-04-24 - benchmark for measuring how well AI agents perform at machine learning engineering.
-* [WebArena](https://github.com/web-arena-x/webarena) ⭐ 1,616 | 🐛 104 | 🌐 Python | 📅 2025-11-26 - realistic self-hosted web environment and benchmark for autonomous web agents.
+* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) ⭐ 2,859 | 🐛 333 | 🌐 Python | 📅 2026-09-26 - open-source framework for LLM, multimodal, coding, and agent evaluations.
+* [tau2-bench](https://github.com/sierra-research/tau2-bench) ⭐ 2,109 | 🐛 232 | 🌐 Python | 📅 2026-09-19 - tool-agent-user interaction benchmark for text and voice customer-service agents.
+* [MLE-bench](https://github.com/openai/mle-bench) ⭐ 1,754 | 🐛 13 | 🌐 Python | 📅 2026-04-24 - benchmark for measuring how well AI agents perform at machine learning engineering.
+* [WebArena](https://github.com/web-arena-x/webarena) ⭐ 1,617 | 🐛 104 | 🌐 Python | 📅 2025-11-26 - realistic self-hosted web environment and benchmark for autonomous web agents.
 * [BrowserGym](https://github.com/ServiceNow/BrowserGym) ⭐ 1,376 | 🐛 41 | 🌐 Python | 📅 2026-09-22 - extensible Gym environment for web-agent research with packaged browser automation benchmarks.
-* [SWE-Lancer](https://github.com/openai/frontier-evals/tree/main/project/swelancer) ⭐ 1,301 | 🐛 69 | 🌐 Python | 📅 2026-04-21 - benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.
-* [PaperBench](https://github.com/openai/frontier-evals/tree/main/project/paperbench) ⭐ 1,301 | 🐛 69 | 🌐 Python | 📅 2026-04-21 - benchmark for end-to-end replication of state-of-the-art AI papers.
+* [SWE-Lancer](https://github.com/openai/frontier-evals/tree/main/project/swelancer) ⭐ 1,301 | 🐛 70 | 🌐 Python | 📅 2026-04-21 - benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.
+* [PaperBench](https://github.com/openai/frontier-evals/tree/main/project/paperbench) ⭐ 1,301 | 🐛 70 | 🌐 Python | 📅 2026-04-21 - benchmark for end-to-end replication of state-of-the-art AI papers.
 * [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) ⭐ 953 | 🐛 47 | 🌐 Python | 📅 2025-07-16 - contamination-aware benchmark for code generation, repair, execution, and test prediction.
-* [AndroidWorld](https://github.com/google-research/android_world) ⭐ 931 | 🐛 51 | 🌐 Python | 📅 2026-09-09 - environment and benchmark for autonomous agents operating Android apps through an emulator.
-* [The Agent Company](https://github.com/TheAgentCompany/TheAgentCompany) ⭐ 784 | 🐛 24 | 🌐 Python | 📅 2025-11-17 - benchmark for autonomous agents completing workplace tasks in a simulated software company.
-* [Inspect Evals](https://github.com/UKGovernmentBEIS/inspect_evals) ⭐ 683 | 🐛 285 | 🌐 Python | 📅 2026-09-25 - community collection of ready-to-run benchmark implementations for Inspect AI.
+* [AndroidWorld](https://github.com/google-research/android_world) ⭐ 932 | 🐛 51 | 🌐 Python | 📅 2026-09-09 - environment and benchmark for autonomous agents operating Android apps through an emulator.
+* [The Agent Company](https://github.com/TheAgentCompany/TheAgentCompany) ⭐ 785 | 🐛 24 | 🌐 Python | 📅 2025-11-17 - benchmark for autonomous agents completing workplace tasks in a simulated software company.
+* [Inspect Evals](https://github.com/UKGovernmentBEIS/inspect_evals) ⭐ 683 | 🐛 287 | 🌐 Python | 📅 2026-09-25 - community collection of ready-to-run benchmark implementations for Inspect AI.
 * [Awesome LLM Eval](https://github.com/onejune2018/awesome-llm-eval) ⭐ 657 | 🐛 58 | 📅 2025-11-24 - tools, datasets, benchmarks, leaderboards, papers, and demos for LLM evaluation.
 * [MLGym](https://github.com/facebookresearch/MLGym) ⭐ 625 | 🐛 9 | 🌐 Python | 📅 2025-08-10 - framework and benchmark for evaluating AI research agents on open-ended machine learning tasks.
 * [SWE-bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os) ⭐ 531 | 🐛 46 | 🌐 Python | 📅 2026-09-22 - long-horizon software engineering benchmark for agents on larger production codebases.
 * [BigCodeBench](https://github.com/bigcode-project/bigcodebench) ⚠️ Archived - practical code-generation benchmark with diverse function calls, complex instructions, and a leaderboard.
-* [SciCode](https://github.com/scicode-bench/SciCode) ⭐ 231 | 🐛 21 | 🌐 Python | 📅 2026-09-21 - scientist-curated benchmark for code generation on realistic scientific research problems.
+* [SciCode](https://github.com/scicode-bench/SciCode) ⭐ 232 | 🐛 21 | 🌐 Python | 📅 2026-09-21 - scientist-curated benchmark for code generation on realistic scientific research problems.
 * [Awesome AI Benchmarks](https://github.com/panilya/awesome-ai-benchmarks) ⭐ 52 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - searchable collection of benchmarks for agents, reasoning, code, multimodal, translation, and other AI domains.
 * [Awesome Scientific LLM Benchmarks](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-21 - benchmarks for evaluating LLMs on scientific reasoning, discovery, and domain knowledge.
 * [Hugging Face Models](https://huggingface.co/models) - model hub for open models.
@@ -332,4 +332,4 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
